@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="hi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+    <meta name="theme-color" content="#4f46e5" />
+    <meta http-equiv="Cache-Control" content="no-store, must-revalidate" />
+    <meta name="description" content="AI-Assisted Multilingual Education Platform for Tribal Schools - Hindi to Santhali (Ol Chiki) classroom translation, text-to-speech, flashcards and bilingual worksheets. SIH problem statement 26042." />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <title>पलाश MTB-MLE • Hindi → Santhali Teaching Assistant</title>
+    <script>
+      // ---------------------------------------------------------------- self-repair
+      // A browser (or a proxy) can hand back an old copy of this page, in which case a
+      // newly added screen simply never appears. This compares the build this page was
+      // made from against the build the server is serving right now. If they differ it
+      // drops the offline caches, unregisters the worker and reloads once - so the
+      // teacher always ends up on the current version instead of guessing.
+      (function () {
+        try {
+          var tag = document.querySelector('script[type="module"][src*="/assets/index-"]')
+          var m = tag && tag.getAttribute('src').match(/index-([A-Za-z0-9_-]+)\.js/)
+          var mine = m ? m[1] : 'dev'
+          fetch('/api/version', { cache: 'no-store' })
+            .then(function (r) { return r.json() })
+            .then(function (d) {
+              if (!d || !d.build || d.build === mine) return
+              var flag = 'mtb-heal-' + d.build
+              if (sessionStorage.getItem(flag)) return
+              sessionStorage.setItem(flag, '1')
+              var jobs = []
+              if (window.caches && caches.keys) {
+                jobs.push(caches.keys().then(function (ks) {
+                  return Promise.all(ks.map(function (k) { return caches.delete(k) }))
+                }))
+              }
+              if (navigator.serviceWorker && navigator.serviceWorker.getRegistrations) {
+                jobs.push(navigator.serviceWorker.getRegistrations().then(function (rs) {
+                  return Promise.all(rs.map(function (r) { return r.unregister() }))
+                }))
+              }
+              Promise.all(jobs).catch(function () {}).then(function () { window.location.reload() })
+            })
+            .catch(function () {})
+        } catch (e) { /* never let this stop the app from loading */ }
+      })()
+    </script>
+    <script type="module" crossorigin src="/assets/index-s3QewWZh.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-PjRqnfBV.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
