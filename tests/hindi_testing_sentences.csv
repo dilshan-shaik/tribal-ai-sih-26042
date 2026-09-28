@@ -1,0 +1,179 @@
+﻿no,category,hindi,expected,actual,roman,method,confidence,status,why
+1,Classroom instructions,किताब बंद करो।,ᱯᱚᱛᱚᱵ ᱵᱚᱸᱫᱚᱭ ᱢᱮ!,ᱯᱚᱛᱚᱵ ᱵᱚᱸᱫᱚᱭ ᱢᱮ!,patab banday me!,phrase,high,PASS,attested phrase from the corpus
+2,Classroom instructions,किताब खोलो।,ᱯᱚᱛᱚᱵ ᱡᱷᱤᱡᱽ ᱢᱮ।,ᱯᱚᱛᱚᱵ ᱡᱷᱤᱡᱽ ᱢᱮ।,patab jhij me।,phrase,high,PASS,verified phrase
+3,Classroom instructions,ध्यान से पढ़ो।,ᱟᱪᱩᱨ ᱠᱟᱛᱮᱜ ᱯᱟᱲᱦᱟᱣ ᱢᱮ।,ᱟᱪᱩᱨ ᱠᱟᱛᱮᱜ ᱯᱟᱲᱦᱟᱣ ᱢᱮ।,ācur kāteg pāṛhāw me।,phrase,high,PASS,attested phrase (exact corpus match)
+4,Classroom instructions,मेरी मदद करो।,ᱫᱟᱭᱟᱠᱟᱛᱮ ᱜᱚᱲᱚ ᱮᱢᱚᱜ ᱢᱮ ᱾,ᱫᱟᱭᱟᱠᱟᱛᱮ ᱜᱚᱲᱚ ᱮᱢᱚᱜ ᱢᱮ ᱾,dāyākāte gaṛa emag me .,phrase,high,PASS,attested phrase
+5,Classroom instructions,फल कहाँ है?,ᱡᱚ ᱫᱚ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ?,ᱡᱚ ᱫᱚ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ?,ja da akāre menāgā ?,phrase,high,PASS,attested question
+6,Classroom instructions,मछली पानी में रहती है।,ᱦᱟᱹᱠᱩ ᱫᱚ ᱫᱟᱜ ᱨᱮᱠᱚ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ᱾,ᱦᱟᱹᱠᱩ ᱫᱚ ᱫᱟᱜ ᱨᱮᱠᱚ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ᱾,hku da dāg reka tāhenn kānā.,phrase,high,PASS,attested full sentence
+7,Classroom instructions,आज हम गिनती सीखेंगे।,ᱛᱮᱦᱮᱧ ᱟᱞᱮ ᱞᱮᱠᱷᱟ ᱪᱮᱫᱚᱜ ᱞᱮᱭᱟ।,ᱛᱮᱦᱮᱧ ᱟᱞᱮ ᱞᱮᱠᱷᱟ ᱪᱮᱫᱚᱜ ᱞᱮᱭᱟ।,teheñ āle lekhā cedag leyā।,phrase,medium,PASS,flagship demo sentence - composed from attested parts
+8,'This is a ...' frames,यह एक पेड़ है।,ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱫᱟᱨᱮ ᱠᱟᱱᱟ।,ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱫᱟᱨᱮ ᱠᱟᱱᱟ।,navā da midṭṅ dāre kānā।,template,high,PASS,template + nukta word (पेड़)
+9,'This is a ...' frames,यह एक दरवाज़ा है।,ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱫᱩᱣᱟᱹᱨ ᱠᱟᱱᱟ।,ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱫᱩᱣᱟᱹᱨ ᱠᱟᱱᱟ।,navā da midṭṅ duwr kānā।,template,high,PASS,template + dataset word (दरवाज़ा)
+10,'This is a ...' frames,यह एक कुत्ता है।,ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱮᱛᱟ ᱠᱟᱱᱟ।,ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱮᱛᱟ ᱠᱟᱱᱟ।,navā da midṭṅ setā kānā।,template,high,PASS,template + old vocab
+11,'This is a ...' frames,यह आम है।,ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱩᱞ ᱠᱟᱱᱟ।,ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱩᱞ ᱠᱟᱱᱟ।,navā da midṭṅ ul kānā।,template,high,PASS,"template, no एक"
+12,'This is a ...' frames,यह एक मुर्गी है।,,ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱤᱢ ᱠᱟᱱᱟ।,navā da midṭṅ sim kānā।,template,high,INFO,template + word corrected by the new dataset
+13,'This is a ...' frames,यह एक नींबू है।,,ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱞᱤᱢᱵᱩ ᱠᱟᱱᱟ।,navā da midṭṅ limbu kānā।,template,high,INFO,template + dataset word (नींबू)
+14,'This is a ...' frames,यह एक गाँव है।,,ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱟᱹᱛᱩ ᱠᱟᱱᱟ ᱾,navā da midṭṅ atu kānā .,phrase,high,INFO,template + word corrected by the new dataset (ᱟᱹᱛᱩ)
+15,Words from the new dataset,दादी,ᱵᱩᱰᱤᱜᱚ,ᱵᱩᱰᱤᱜᱚ,buḍiga,vocab,high,PASS,"40 sentences, p=0.70, lift 87"
+16,Words from the new dataset,दादा,ᱜᱚᱲᱚᱢ ᱦᱟᱲᱟᱢ,ᱜᱚᱲᱚᱢ ᱦᱟᱲᱟᱢ,gaṛam hāṛām,vocab,high,PASS,kinship word
+17,Words from the new dataset,लड़का,ᱠᱚᱲᱟ,ᱠᱚᱲᱟ,kaṛā,vocab,high,PASS,kinship word
+18,Words from the new dataset,औरत,ᱛᱤᱨᱞᱟᱹ,ᱛᱤᱨᱞᱟᱹ,tirl,vocab,high,PASS,kinship word
+19,Words from the new dataset,भात,ᱫᱟᱠᱟ,ᱫᱟᱠᱟ,dākā,vocab,high,PASS,food
+20,Words from the new dataset,मुर्गी,ᱥᱤᱢ,ᱥᱤᱢ,sim,vocab,high,PASS,bird/farm
+21,Words from the new dataset,दरवाज़ा,ᱫᱩᱣᱟᱹᱨ,ᱫᱩᱣᱟᱹᱨ,duwr,vocab,high,PASS,classroom object
+22,Words from the new dataset,चॉक,ᱪᱚᱠ,ᱪᱚᱠ,cak,vocab,high,PASS,classroom object
+23,Words from the new dataset,नींबू,ᱞᱤᱢᱵᱩ,ᱞᱤᱢᱵᱩ,limbu,vocab,high,PASS,fruit
+24,Words from the new dataset,दुखी,ᱫᱩᱠᱷ ᱟᱱᱟᱜ,ᱫᱩᱠᱷ ᱟᱱᱟᱜ,dukh ānāg,vocab,high,PASS,feeling
+25,Words from the new dataset,पंद्रह,ᱜᱮᱞ ᱢᱚᱬᱮ,ᱜᱮᱞ ᱢᱚᱬᱮ,gel maṇe,vocab,high,PASS,number 15
+26,Words from the new dataset,बीस,ᱵᱟᱨ ᱜᱮᱞ,ᱵᱟᱨ ᱜᱮᱞ,bār gel,vocab,high,PASS,number 20
+27,Words from the new dataset,तीस,ᱯᱮ ᱜᱮᱞ,ᱯᱮ ᱜᱮᱞ,pe gel,vocab,high,PASS,number 30
+28,Words from the new dataset,पचास,ᱢᱚᱬᱮ ᱜᱮᱞ,ᱢᱚᱬᱮ ᱜᱮᱞ,maṇe gel,vocab,high,PASS,number 50
+29,Corrected entries,आम,ᱩᱞ,ᱩᱞ,ul,vocab,high,PASS,was ᱩᱞᱤ before the dataset arrived
+30,Corrected entries,सूरज,ᱥᱤᱧ ᱪᱟᱸᱫᱚ,ᱥᱤᱧ ᱪᱟᱸᱫᱚ,siñ cānda,vocab,high,PASS,was ᱥᱤᱸᱜᱮ (ᱪᱟᱸᱫᱚ alone = moon)
+31,Corrected entries,गाँव,ᱟᱹᱛᱩ,ᱟᱹᱛᱩ,atu,vocab,high,PASS,was ᱟᱛᱳ
+32,Numbers (1-15 must all be different),एक,ᱢᱤᱫ,ᱢᱤᱫ,mid,vocab,medium,PASS,counting 1-10
+33,Numbers (1-15 must all be different),दो,ᱵᱟᱨᱭᱟ,ᱵᱟᱨᱭᱟ,bāryā,vocab,medium,PASS,
+34,Numbers (1-15 must all be different),तीन,ᱯᱮ,ᱯᱮ,pe,vocab,medium,PASS,
+35,Numbers (1-15 must all be different),चार,ᱯᱩᱱ,ᱯᱩᱱ,pun,vocab,high,PASS,"corrected: ᱯᱩᱱ is the standard form, ᱯᱳᱱ is the file's variant"
+36,Numbers (1-15 must all be different),पाँच,ᱢᱚᱬᱮ,ᱢᱚᱬᱮ,maṇe,vocab,high,PASS,regression: was ᱢᱹᱲᱮ
+37,Numbers (1-15 must all be different),छह,ᱛᱩᱨᱩᱭ,ᱛᱩᱨᱩᱭ,turuy,vocab,high,PASS,regression: was ᱮᱭᱟᱭ (= seven)
+38,Numbers (1-15 must all be different),सात,ᱮᱭᱟᱭ,ᱮᱭᱟᱭ,eyāy,vocab,medium,PASS,
+39,Numbers (1-15 must all be different),आठ,ᱤᱨᱟᱹᱞ,ᱤᱨᱟᱹᱞ,irl,vocab,high,PASS,regression: was ᱮᱭᱟᱭ (= seven)
+40,Numbers (1-15 must all be different),नौ,ᱟᱨᱮ,ᱟᱨᱮ,āre,vocab,medium,PASS,
+41,Numbers (1-15 must all be different),दस,ᱜᱮᱞ,ᱜᱮᱞ,gel,vocab,high,PASS,
+42,Numbers (1-15 must all be different),ग्यारह,ᱜᱮᱞ ᱢᱤᱫ,ᱜᱮᱞ ᱢᱤᱫ,gel mid,vocab,high,PASS,regression: was ᱜᱢᱤᱛ
+43,Numbers (1-15 must all be different),बारह,ᱜᱮᱞ ᱵᱟᱨ,ᱜᱮᱞ ᱵᱟᱨ,gel bār,vocab,high,PASS,regression: was ᱵᱟᱨᱜᱮᱞ (reversed)
+44,Numbers (1-15 must all be different),तेरह,ᱜᱮᱞ ᱯᱮ,ᱜᱮᱞ ᱯᱮ,gel pe,vocab,high,PASS,"corrected: 11 is ᱜᱮᱞ ᱢᱤᱫ, 12 ᱜᱮᱞ ᱵᱟᱨ, so 13 is ᱜᱮᱞ ᱯᱮ"
+45,Numbers (1-15 must all be different),चौदह,ᱜᱮᱞ ᱯᱩᱱ,ᱜᱮᱞ ᱯᱩᱱ,gel pun,vocab,high,PASS,regression: was ᱜᱮᱯᱮ (= thirteen)
+46,Numbers (1-15 must all be different),पंद्रह,ᱜᱮᱞ ᱢᱚᱬᱮ,ᱜᱮᱞ ᱢᱚᱬᱮ,gel maṇe,vocab,high,PASS,
+47,Numbers (1-15 must all be different),सौ,ᱥᱟᱭ,ᱥᱟᱭ,sāy,vocab,high,PASS,regression: was ᱤᱨᱟᱹᱞ (= eight)
+48,Numbers,पाँच भात,,(no confident answer - queued for review),,declined,-,INFO,number + noun (word order check)
+49,Numbers,मेरे पास बीस आम हैं।,,(no confident answer - queued for review),,declined,-,INFO,counting in a full sentence
+50,Numbers,कक्षा में तीस बच्चे हैं।,,(no confident answer - queued for review),,declined,-,INFO,counting in a full sentence
+51,Bare imperatives (verb table),बताओ।,ᱞᱟᱹᱭ ᱢᱮ,ᱞᱟᱹᱭ ᱢᱮ,ly me,verb,high,PASS,tell! - was declined before
+52,Bare imperatives (verb table),चलो।,ᱪᱟᱞᱟᱜ ᱯᱮ,ᱪᱟᱞᱟᱜ ᱯᱮ,cālāg pe,verb,high,PASS,let's go! - was declined before
+53,Bare imperatives (verb table),लो।,ᱦᱟᱛᱟᱣ ᱢᱮ,ᱦᱟᱛᱟᱣ ᱢᱮ,hātāw me,verb,high,PASS,take! - was declined before
+54,Bare imperatives (verb table),बंद करो,ᱵᱚᱸᱫᱚᱭ ᱢᱮ,ᱵᱚᱸᱫᱚᱭ ᱢᱮ,banday me,verb,high,PASS,"switch off!, no object"
+55,Bare imperatives (verb table),खोलो,ᱡᱷᱤᱡᱽ ᱢᱮ,ᱡᱷᱤᱡᱽ ᱢᱮ,jhij me,verb,high,PASS,"open!, no object"
+56,Bare imperatives (verb table),शुरू करो,ᱪᱟᱹᱞᱩᱭ ᱢᱮ,ᱪᱟᱹᱞᱩᱭ ᱢᱮ,cluy me,verb,high,PASS,start!
+57,Bare imperatives (verb table),रखो,ᱫᱚᱦᱚ ᱢᱮ,ᱫᱚᱦᱚ ᱢᱮ,daha me,verb,high,PASS,keep!
+58,Bare imperatives (verb table),सीखो,ᱪᱮᱫᱚᱜ ᱢᱮ,ᱪᱮᱫᱚᱜ ᱢᱮ,cedag me,verb,high,PASS,learn!
+59,Messy / speech-style input,किताब बन्द करो,ᱯᱚᱛᱚᱵ ᱵᱚᱸᱫᱚᱭ ᱢᱮ!,ᱯᱚᱛᱚᱵ ᱵᱚᱸᱫᱚᱭ ᱢᱮ!,patab banday me!,phrase,high,PASS,बन्द spelling + no danda drawn from speech
+60,Messy / speech-style input,किताब बंद करो,ᱯᱚᱛᱚᱵ ᱵᱚᱸᱫᱚᱭ ᱢᱮ!,ᱯᱚᱛᱚᱵ ᱵᱚᱸᱫᱚᱭ ᱢᱮ!,patab banday me!,phrase,high,PASS,no danda
+61,Messy / speech-style input,फल कहा है।,ᱡᱚ ᱫᱚ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ?,ᱡᱚ ᱫᱚ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ?,ja da akāre menāgā ?,phrase,high,PASS,ASR dropped the nasal: कहा for कहाँ
+62,Messy / speech-style input,मछली पानी मे रहती है,ᱦᱟᱹᱠᱩ ᱫᱚ ᱫᱟᱜ ᱨᱮᱠᱚ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ᱾,ᱦᱟᱹᱠᱩ ᱫᱚ ᱫᱟᱜ ᱨᱮᱠᱚ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ᱾,hku da dāg reka tāhenn kānā.,phrase,high,PASS,missing anusvara in मे
+63,Messy / speech-style input,किताब   खोलो,,ᱯᱚᱛᱚᱵ ᱡᱷᱤᱡᱽ ᱢᱮ।,patab jhij me।,phrase,high,INFO,double space
+64,Messy / speech-style input,किताब खोलो,,ᱯᱚᱛᱚᱵ ᱡᱷᱤᱡᱽ ᱢᱮ।,patab jhij me।,phrase,high,INFO,no punctuation at all
+65,Outside the domain (expected: word bank),मुझे बाजार से दो किलो चावल लाना है।,,(no confident answer - queued for review),,declined,-,INFO,"long everyday sentence, not in corpora"
+66,Outside the domain (expected: word bank),आज मौसम बहुत अच्छा है।,,(no confident answer - queued for review),,declined,-,INFO,small talk
+67,Outside the domain (expected: word bank),रेलगाड़ी स्टेशन पर रुकती है।,DECLINE,(no confident answer - queued for review),,declined,-,PASS,"no known word - must decline, not invent"
+68,Outside the domain (expected: word bank),सरकारी स्कूल में नया शिक्षक आया है।,,(no confident answer - queued for review),,declined,-,INFO,education administration
+69,Edge cases (must not crash),,,(refused: empty input),,refused,-,PASS,"empty input - must be refused, not crash"
+70,Edge cases (must not crash),।।।,,(refused: empty input),,refused,-,PASS,"punctuation only - must be refused, not crash"
+71,Edge cases (must not crash),12345,DECLINE,(no confident answer - queued for review),,declined,-,PASS,digits only - must decline
+72,Edge cases (must not crash),hello teacher,DECLINE,(no confident answer - queued for review),,declined,-,PASS,English input - must decline
+73,Edge cases (must not crash),आम आम आम आम आम,,(no confident answer - queued for review),,declined,-,INFO,same word repeated
+74,Edge cases (must not crash),दादी ने कहा।,,(no confident answer - queued for review),,declined,-,INFO,कहा (said) must NOT be read as कहाँ (where)
+75,Edge cases (must not crash),दो।,,ᱵᱟᱨᱭᱟ,bāryā,vocab,medium,INFO,ambiguous: number 'two' wins over verb 'give!' - needs context
+76,All shipped phrases (round trip),किताब बंद करो।,ᱯᱚᱛᱚᱵ ᱵᱚᱸᱫᱚᱭ ᱢᱮ!,ᱯᱚᱛᱚᱵ ᱵᱚᱸᱫᱚᱭ ᱢᱮ!,patab banday me!,phrase,high,PASS,"attested phrase, confidence high"
+77,All shipped phrases (round trip),ध्यान से पढ़ो।,ᱟᱪᱩᱨ ᱠᱟᱛᱮᱜ ᱯᱟᱲᱦᱟᱣ ᱢᱮ।,ᱟᱪᱩᱨ ᱠᱟᱛᱮᱜ ᱯᱟᱲᱦᱟᱣ ᱢᱮ।,ācur kāteg pāṛhāw me।,phrase,high,PASS,"attested phrase, confidence high"
+78,All shipped phrases (round trip),सब मिलकर स्कूल चलो।,ᱥᱟᱶᱛᱮ ᱟᱥᱲᱟ ᱪᱟᱞᱟᱜ ᱯᱮ ᱾,ᱥᱟᱶᱛᱮ ᱟᱥᱲᱟ ᱪᱟᱞᱟᱜ ᱯᱮ ᱾,sāvte āsṛā cālāg pe .,phrase,high,PASS,"attested phrase, confidence high"
+79,All shipped phrases (round trip),दरवाज़ा बंद करो।,ᱫᱩᱣᱟᱹᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ!,ᱫᱩᱣᱟᱹᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ!,duwr banday me!,phrase,medium,PASS,"pattern phrase, confidence medium"
+80,All shipped phrases (round trip),मेरी मदद करो।,ᱫᱟᱭᱟᱠᱟᱛᱮ ᱜᱚᱲᱚ ᱮᱢᱚᱜ ᱢᱮ ᱾,ᱫᱟᱭᱟᱠᱟᱛᱮ ᱜᱚᱲᱚ ᱮᱢᱚᱜ ᱢᱮ ᱾,dāyākāte gaṛa emag me .,phrase,high,PASS,"attested phrase, confidence high"
+81,All shipped phrases (round trip),बत्ती बंद करो।,ᱢᱟᱨᱥᱟᱞ ᱵᱚᱱᱫᱚᱭ ᱢᱮ᱾,ᱢᱟᱨᱥᱟᱞ ᱵᱚᱱᱫᱚᱭ ᱢᱮ᱾,mārsāl banday me.,phrase,high,PASS,"attested phrase, confidence high"
+82,All shipped phrases (round trip),कुर्सी ले लो।,ᱢᱟᱹᱪᱤ ᱦᱟᱛᱟᱣ ᱢᱮ᱾,ᱢᱟᱹᱪᱤ ᱦᱟᱛᱟᱣ ᱢᱮ᱾,mci hātāw me.,phrase,medium,PASS,"pattern phrase, confidence medium"
+83,All shipped phrases (round trip),फल कहाँ है?,ᱡᱚ ᱫᱚ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ?,ᱡᱚ ᱫᱚ ᱚᱠᱟᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ?,ja da akāre menāgā ?,phrase,high,PASS,"attested phrase, confidence high"
+84,All shipped phrases (round trip),पानी पियो।,ᱫᱟᱜ ᱧᱩᱭ ᱢᱮ।,ᱫᱟᱜ ᱧᱩᱭ ᱢᱮ।,dāg ñuy me।,phrase,medium,PASS,"pattern phrase, confidence medium"
+85,All shipped phrases (round trip),गाना गाओ।,ᱥᱮᱨᱮᱧ ᱵᱟᱡᱟᱣ ᱢᱮ᱾,ᱥᱮᱨᱮᱧ ᱵᱟᱡᱟᱣ ᱢᱮ᱾,sereñ bājāw me.,phrase,medium,PASS,"pattern phrase, confidence medium"
+86,All shipped phrases (round trip),यह एक गाँव है।,ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱟᱹᱛᱩ ᱠᱟᱱᱟ ᱾,ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱟᱹᱛᱩ ᱠᱟᱱᱟ ᱾,navā da midṭṅ atu kānā .,phrase,high,PASS,"attested phrase, confidence high"
+87,All shipped phrases (round trip),मेरा नाम रवि है।,ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱨᱚᱵᱤ ᱠᱟᱱᱟ ᱾,ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱨᱚᱵᱤ ᱠᱟᱱᱟ ᱾,iñāg ñutum da rabi kānā .,phrase,high,PASS,"attested phrase, confidence high"
+88,All shipped phrases (round trip),टोपी लो।,ᱢᱩᱱᱰᱟᱥᱤᱱ ᱦᱟᱛᱟᱣ ᱢᱮ᱾,ᱢᱩᱱᱰᱟᱥᱤᱱ ᱦᱟᱛᱟᱣ ᱢᱮ᱾,munḍāsin hātāw me.,phrase,medium,PASS,"pattern phrase, confidence medium"
+89,All shipped phrases (round trip),मछली पानी में रहती है।,ᱦᱟᱹᱠᱩ ᱫᱚ ᱫᱟᱜ ᱨᱮᱠᱚ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ᱾,ᱦᱟᱹᱠᱩ ᱫᱚ ᱫᱟᱜ ᱨᱮᱠᱚ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ᱾,hku da dāg reka tāhenn kānā.,phrase,high,PASS,"attested phrase, confidence high"
+90,All shipped phrases (round trip),बच्चे यहाँ हैं।,ᱜᱤᱫᱽᱨᱟᱹ ᱠᱚ ᱱᱚᱰᱮ ᱢᱮᱱᱟᱜ ᱠᱚᱣᱟ ᱾,ᱜᱤᱫᱽᱨᱟᱹ ᱠᱚ ᱱᱚᱰᱮ ᱢᱮᱱᱟᱜ ᱠᱚᱣᱟ ᱾,gidr ka naḍe menāg kawā .,phrase,high,PASS,"attested phrase, confidence high"
+91,All shipped phrases (round trip),साथ में गाओ।,ᱥᱟᱶᱛᱮ ᱥᱮᱨᱮᱧ ᱢᱮ।,ᱥᱟᱶᱛᱮ ᱥᱮᱨᱮᱧ ᱢᱮ।,sāvte sereñ me।,phrase,medium,PASS,"pattern phrase, confidence medium"
+92,All shipped phrases (round trip),कुछ लिखो।,ᱠᱤᱪᱷᱩ ᱚᱞ ᱢᱮ।,ᱠᱤᱪᱷᱩ ᱚᱞ ᱢᱮ।,kichu al me।,phrase,medium,PASS,"pattern phrase, confidence medium"
+93,All shipped phrases (round trip),ध्यान से देखो।,ᱟᱪᱩᱨ ᱠᱟᱛᱮᱜ ᱧᱮᱞ ᱢᱮ।,ᱟᱪᱩᱨ ᱠᱟᱛᱮᱜ ᱧᱮᱞ ᱢᱮ।,ācur kāteg ñel me।,phrase,medium,PASS,"pattern phrase, confidence medium"
+94,All shipped phrases (round trip),मुझे बताओ।,ᱤᱧ ᱞᱟᱹᱭ ᱢᱮ।,ᱤᱧ ᱞᱟᱹᱭ ᱢᱮ।,iñ ly me।,phrase,medium,PASS,"pattern phrase, confidence medium"
+95,All shipped phrases (round trip),यहाँ आओ।,ᱱᱚᱰᱮ ᱦᱮᱡ ᱢᱮ।,ᱱᱚᱰᱮ ᱦᱮᱡ ᱢᱮ।,naḍe hej me।,phrase,medium,PASS,"pattern phrase, confidence medium"
+96,All shipped phrases (round trip),फिर से लिखो।,ᱟᱨᱦᱚᱸ ᱚᱞ ᱢᱮ᱾,ᱟᱨᱦᱚᱸ ᱚᱞ ᱢᱮ᱾,ārhan al me.,phrase,medium,PASS,"pattern phrase, confidence medium"
+97,All shipped phrases (round trip),फिर से पढ़ो।,ᱟᱨᱦᱚᱸ ᱯᱟᱲᱦᱟᱣ ᱢᱮ।,ᱟᱨᱦᱚᱸ ᱯᱟᱲᱦᱟᱣ ᱢᱮ।,ārhan pāṛhāw me।,phrase,medium,PASS,"pattern phrase, confidence medium"
+98,All shipped phrases (round trip),बहुत अच्छा किया!,ᱵᱮᱥ ᱠᱟᱛᱷᱟ!,ᱵᱮᱥ ᱠᱟᱛᱷᱟ!,bes kāthā!,phrase,medium,PASS,"pattern phrase, confidence medium"
+99,All shipped phrases (round trip),आज हम गिनती सीखेंगे।,ᱛᱮᱦᱮᱧ ᱟᱞᱮ ᱞᱮᱠᱷᱟ ᱪᱮᱫᱚᱜ ᱞᱮᱭᱟ।,ᱛᱮᱦᱮᱧ ᱟᱞᱮ ᱞᱮᱠᱷᱟ ᱪᱮᱫᱚᱜ ᱞᱮᱭᱟ।,teheñ āle lekhā cedag leyā।,phrase,medium,PASS,"pattern phrase, confidence medium"
+100,All shipped phrases (round trip),गिनती सीखो।,ᱞᱮᱠᱷᱟ ᱪᱮᱫᱚᱜ ᱢᱮ!,ᱞᱮᱠᱷᱟ ᱪᱮᱫᱚᱜ ᱢᱮ!,lekhā cedag me!,phrase,medium,PASS,"pattern phrase, confidence medium"
+101,All shipped phrases (round trip),अंग्रेज़ी सीखो।,ᱤᱝᱞᱤᱥ ᱪᱮᱫᱚᱜ ᱢᱮ!,ᱤᱝᱞᱤᱥ ᱪᱮᱫᱚᱜ ᱢᱮ!,iṅlis cedag me!,phrase,medium,PASS,"pattern phrase, confidence medium"
+102,All shipped phrases (round trip),आपका नाम क्या है?,ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱪᱮᱫ ᱠᱟᱱᱟ?,ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱪᱮᱫ ᱠᱟᱱᱟ?,āmāg ñutum da ced kānā?,phrase,high,PASS,"attested phrase, confidence high"
+103,All shipped phrases (round trip),मेरा नाम क्या है?,ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱪᱮᱫ ᱠᱟᱱᱟ?,ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱪᱮᱫ ᱠᱟᱱᱟ?,iñāg ñutum da ced kānā?,phrase,high,PASS,"attested phrase, confidence high"
+104,All shipped phrases (round trip),मेरा नाम रघुनाथ है।,ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱨᱟᱹᱜᱷᱩᱱᱟᱛᱷ ᱠᱟᱱᱟ ᱾,ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱨᱟᱹᱜᱷᱩᱱᱟᱛᱷ ᱠᱟᱱᱟ ᱾,iñāg ñutum da rghunāth kānā .,phrase,high,PASS,"attested phrase, confidence high"
+105,All shipped phrases (round trip),मेरा नाम शगुन है।,ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱥᱟᱹᱜᱩᱱ ᱠᱟᱱᱟ ᱾,ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱥᱟᱹᱜᱩᱱ ᱠᱟᱱᱟ ᱾,iñāg ñutum da sgun kānā .,phrase,high,PASS,"attested phrase, confidence high"
+106,All shipped phrases (round trip),मेरा नाम बिसु है।,ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱵᱤᱥᱩ ᱠᱟᱱᱟ ᱾,ᱤᱧᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱵᱤᱥᱩ ᱠᱟᱱᱟ ᱾,iñāg ñutum da bisu kānā .,phrase,high,PASS,"attested phrase, confidence high"
+107,All shipped phrases (round trip),आपका नाम शगुन है।,ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱥᱟᱹᱜᱩᱱ ᱠᱟᱱᱟ ᱾,ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱥᱟᱹᱜᱩᱱ ᱠᱟᱱᱟ ᱾,āmāg ñutum da sgun kānā .,phrase,high,PASS,"attested phrase, confidence high"
+108,All shipped phrases (round trip),उसका नाम काहु है।,ᱩᱱᱤᱭᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱠᱟᱹᱦᱩ ᱠᱟᱱᱟ ᱾,ᱩᱱᱤᱭᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱠᱟᱹᱦᱩ ᱠᱟᱱᱟ ᱾,uniyāg ñutum da khu kānā .,phrase,high,PASS,"attested phrase, confidence high"
+109,All shipped phrases (round trip),उसका नाम शगुन है।,ᱩᱱᱤᱭᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱥᱟᱹᱜᱩᱱ ᱠᱟᱱᱟ ᱾,ᱩᱱᱤᱭᱟᱜ ᱧᱩᱛᱩᱢ ᱫᱚ ᱥᱟᱹᱜᱩᱱ ᱠᱟᱱᱟ ᱾,uniyāg ñutum da sgun kānā .,phrase,high,PASS,"attested phrase, confidence high"
+110,All shipped phrases (round trip),आप कैसे हैं?,ᱟᱢ ᱪᱮᱞᱠᱟ ᱢᱮᱱᱟᱢᱟ?,ᱟᱢ ᱪᱮᱞᱠᱟ ᱢᱮᱱᱟᱢᱟ?,ām celkā menāmā?,phrase,high,PASS,"attested phrase, confidence high"
+111,All shipped phrases (round trip),आप क्या कर रहे हैं?,ᱟᱢ ᱪᱮᱫ ᱮᱢ ᱪᱤᱠᱟᱹᱮᱫᱟᱢ?,ᱟᱢ ᱪᱮᱫ ᱮᱢ ᱪᱤᱠᱟᱹᱮᱫᱟᱢ?,ām ced em cikedām?,phrase,high,PASS,"attested phrase, confidence high"
+112,All shipped phrases (round trip),तुम सुंदर हो।,ᱟᱢ ᱫᱚ ᱪᱚᱨᱚᱠ ᱟᱢ᱾,ᱟᱢ ᱫᱚ ᱪᱚᱨᱚᱠ ᱟᱢ᱾,ām da carak ām.,phrase,high,PASS,"attested phrase, confidence high"
+113,All shipped phrases (round trip),यह मेरा घर है।,ᱱᱚᱶᱟ ᱫᱚ ᱤᱧᱟᱜ ᱚᱲᱟᱜ ᱠᱟᱱᱟ ᱾,ᱱᱚᱶᱟ ᱫᱚ ᱤᱧᱟᱜ ᱚᱲᱟᱜ ᱠᱟᱱᱟ ᱾,navā da iñāg aṛāg kānā .,phrase,high,PASS,"attested phrase, confidence high"
+114,All shipped phrases (round trip),यह उसका घर है।,ᱱᱚᱶᱟ ᱟᱡᱟᱜ ᱚᱲᱟᱜ ᱠᱟᱱᱟ ᱾,ᱱᱚᱶᱟ ᱟᱡᱟᱜ ᱚᱲᱟᱜ ᱠᱟᱱᱟ ᱾,navā ājāg aṛāg kānā .,phrase,high,PASS,"attested phrase, confidence high"
+115,All shipped phrases (round trip),यह उसका बगीचा है।,ᱱᱚᱶᱟ ᱟᱡᱟᱜ ᱵᱟᱲᱜᱮ ᱠᱟᱱᱟ ᱾,ᱱᱚᱶᱟ ᱟᱡᱟᱜ ᱵᱟᱲᱜᱮ ᱠᱟᱱᱟ ᱾,navā ājāg bāṛge kānā .,phrase,high,PASS,"attested phrase, confidence high"
+116,All shipped phrases (round trip),यह मेरी फसल है।,ᱱᱚᱶᱟ ᱤᱧᱟᱜ ᱵᱟᱹᱫ ᱠᱟᱱᱟ ᱾,ᱱᱚᱶᱟ ᱤᱧᱟᱜ ᱵᱟᱹᱫ ᱠᱟᱱᱟ ᱾,navā iñāg bd kānā .,phrase,high,PASS,"attested phrase, confidence high"
+117,All shipped phrases (round trip),यह मेरी फसल नहीं है।,ᱱᱚᱶᱟ ᱤᱧᱟᱜ ᱵᱟᱹᱫ ᱵᱟᱝ ᱠᱟᱱᱟ ᱾,ᱱᱚᱶᱟ ᱤᱧᱟᱜ ᱵᱟᱹᱫ ᱵᱟᱝ ᱠᱟᱱᱟ ᱾,navā iñāg bd bāṅ kānā .,phrase,high,PASS,"attested phrase, confidence high"
+118,All shipped phrases (round trip),ये खेत मेरे हैं।,ᱱᱚᱶᱟ ᱵᱟᱹᱫ ᱠᱚ ᱫᱚ ᱤᱧᱟᱜ ᱠᱟᱱᱟ ᱾,ᱱᱚᱶᱟ ᱵᱟᱹᱫ ᱠᱚ ᱫᱚ ᱤᱧᱟᱜ ᱠᱟᱱᱟ ᱾,navā bd ka da iñāg kānā .,phrase,high,PASS,"attested phrase, confidence high"
+119,All shipped phrases (round trip),ये ठीक हैं।,ᱱᱚᱶᱟ ᱠᱚ ᱫᱚ ᱴᱷᱤᱠ ᱠᱟᱱᱟ ᱾,ᱱᱚᱶᱟ ᱠᱚ ᱫᱚ ᱴᱷᱤᱠ ᱠᱟᱱᱟ ᱾,navā ka da ṭhik kānā .,phrase,high,PASS,"attested phrase, confidence high"
+120,All shipped phrases (round trip),ये नाम हैं।,ᱱᱚᱶᱟ ᱠᱚ ᱫᱚ ᱧᱩᱛᱩᱢ ᱠᱟᱱᱟ ᱾,ᱱᱚᱶᱟ ᱠᱚ ᱫᱚ ᱧᱩᱛᱩᱢ ᱠᱟᱱᱟ ᱾,navā ka da ñutum kānā .,phrase,high,PASS,"attested phrase, confidence high"
+121,All shipped phrases (round trip),वह छोटा था।,ᱚᱱᱟ ᱫᱚ ᱦᱚᱯᱚᱱ ᱜᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾,ᱚᱱᱟ ᱫᱚ ᱦᱚᱯᱚᱱ ᱜᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾,anā da hapan ge tāhen kānā .,phrase,high,PASS,"attested phrase, confidence high"
+122,All shipped phrases (round trip),वह बड़ा था।,ᱚᱱᱟ ᱫᱚ ᱢᱟᱨᱟᱝ ᱜᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾,ᱚᱱᱟ ᱫᱚ ᱢᱟᱨᱟᱝ ᱜᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾,anā da mārāṅ ge tāhen kānā .,phrase,high,PASS,"attested phrase, confidence high"
+123,All shipped phrases (round trip),वह बहुत बड़ा था।,ᱚᱱᱟ ᱫᱚ ᱟᱹᱰᱤ ᱢᱟᱨᱟᱝ ᱜᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾,ᱚᱱᱟ ᱫᱚ ᱟᱹᱰᱤ ᱢᱟᱨᱟᱝ ᱜᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾,anā da aḍi mārāṅ ge tāhen kānā .,phrase,high,PASS,"attested phrase, confidence high"
+124,All shipped phrases (round trip),वह बहुत छोटा था।,ᱚᱱᱟ ᱫᱚ ᱟᱹᱰᱤ ᱦᱚᱯᱚᱱ ᱜᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾,ᱚᱱᱟ ᱫᱚ ᱟᱹᱰᱤ ᱦᱚᱯᱚᱱ ᱜᱮ ᱛᱟᱦᱮᱸ ᱠᱟᱱᱟ ᱾,anā da aḍi hapan ge tāhen kānā .,phrase,high,PASS,"attested phrase, confidence high"
+125,All shipped phrases (round trip),उसका चेहरा काला है।,ᱟᱡᱟᱜ ᱢᱚᱪᱟ ᱫᱚ ᱦᱮᱸᱫᱮ ᱜᱮᱭᱟ ᱾,ᱟᱡᱟᱜ ᱢᱚᱪᱟ ᱫᱚ ᱦᱮᱸᱫᱮ ᱜᱮᱭᱟ ᱾,ājāg macā da hende geyā .,phrase,high,PASS,"attested phrase, confidence high"
+126,All shipped phrases (round trip),वह छत पर चढ़ गया।,ᱩᱱᱤ ᱪᱷᱟᱛᱚ ᱫᱮᱡ ᱮᱱᱟᱭ᱾,ᱩᱱᱤ ᱪᱷᱟᱛᱚ ᱫᱮᱡ ᱮᱱᱟᱭ᱾,uni chāta dej enāy.,phrase,high,PASS,"attested phrase, confidence high"
+127,All shipped phrases (round trip),वह रस्सी के ऊपर से कूद गया।,ᱩᱱᱤ ᱵᱟᱵᱮᱨ ᱪᱮᱛᱟᱱ ᱨᱮ ᱫᱚᱱ ᱠᱮᱜᱼᱟᱭ ᱾,ᱩᱱᱤ ᱵᱟᱵᱮᱨ ᱪᱮᱛᱟᱱ ᱨᱮ ᱫᱚᱱ ᱠᱮᱜᱼᱟᱭ ᱾,uni bāber cetān re dan kegāy .,phrase,high,PASS,"attested phrase, confidence high"
+128,All shipped phrases (round trip),वह रस्सी के ऊपर से कूद गई।,ᱩᱱᱤ ᱵᱟᱹᱞᱤ ᱪᱮᱛᱟᱱ ᱨᱮ ᱫᱚᱱ ᱠᱮᱜᱼᱟᱭ ᱾,ᱩᱱᱤ ᱵᱟᱹᱞᱤ ᱪᱮᱛᱟᱱ ᱨᱮ ᱫᱚᱱ ᱠᱮᱜᱼᱟᱭ ᱾,uni bli cetān re dan kegāy .,phrase,high,PASS,"attested phrase, confidence high"
+129,All shipped phrases (round trip),वह कुएँ में कूद गया।,ᱩᱱᱤ ᱠᱩᱸᱭ ᱨᱮ ᱫᱚᱱ ᱠᱮᱜᱼᱟᱭ ᱾,ᱩᱱᱤ ᱠᱩᱸᱭ ᱨᱮ ᱫᱚᱱ ᱠᱮᱜᱼᱟᱭ ᱾,uni kuny re dan kegāy .,phrase,high,PASS,"attested phrase, confidence high"
+130,All shipped phrases (round trip),संताली भाषा लोग बोलते हैं।,ᱥᱟᱱᱛᱟᱲᱤ ᱯᱟᱹᱨᱥᱤ ᱫᱚ ᱦᱚᱲ ᱠᱚ ᱨᱚᱲᱼᱟ ᱾,ᱥᱟᱱᱛᱟᱲᱤ ᱯᱟᱹᱨᱥᱤ ᱫᱚ ᱦᱚᱲ ᱠᱚ ᱨᱚᱲᱼᱟ ᱾,sāntāṛi prsi da haṛ ka raṛā .,phrase,high,PASS,"attested phrase, confidence high"
+131,All shipped phrases (round trip),नदी में बत्तखें तैर रही थीं।,ᱜᱟᱰᱟ ᱨᱮ ᱜᱮᱰᱮ ᱠᱚ ᱯᱟᱭᱨᱟᱜ ᱠᱟᱱ ᱛᱮᱦᱮᱧ ᱾,ᱜᱟᱰᱟ ᱨᱮ ᱜᱮᱰᱮ ᱠᱚ ᱯᱟᱭᱨᱟᱜ ᱠᱟᱱ ᱛᱮᱦᱮᱧ ᱾,gāḍā re geḍe ka pāyrāg kān teheñ .,phrase,high,PASS,"attested phrase, confidence high"
+132,All shipped phrases (round trip),नदी के बीच में एक बड़ी चट्टान है।,ᱜᱟᱰᱟ ᱛᱟᱞᱟ ᱨᱮ ᱢᱟᱨᱟᱝ ᱫᱷᱤᱨᱤ ᱢᱮᱱᱟᱜᱼᱟ ᱾,ᱜᱟᱰᱟ ᱛᱟᱞᱟ ᱨᱮ ᱢᱟᱨᱟᱝ ᱫᱷᱤᱨᱤ ᱢᱮᱱᱟᱜᱼᱟ ᱾,gāḍā tālā re mārāṅ dhiri menāgā .,phrase,high,PASS,"attested phrase, confidence high"
+133,All shipped phrases (round trip),चट्टानें बहुत बड़ी हैं।,ᱫᱷᱤᱨᱤ ᱠᱚ ᱟᱹᱰᱤ ᱢᱟᱨᱟᱝ ᱢᱟᱨᱟᱝ ᱜᱮᱭᱟ ᱾,ᱫᱷᱤᱨᱤ ᱠᱚ ᱟᱹᱰᱤ ᱢᱟᱨᱟᱝ ᱢᱟᱨᱟᱝ ᱜᱮᱭᱟ ᱾,dhiri ka aḍi mārāṅ mārāṅ geyā .,phrase,high,PASS,"attested phrase, confidence high"
+134,All shipped phrases (round trip),चट्टान पर पक्षी बैठा था।,ᱫᱷᱤᱨᱤ ᱪᱮᱛᱟᱱ ᱨᱮ ᱪᱮᱬᱮ ᱫᱩᱲᱩᱵ ᱞᱮᱱᱟᱭ ᱾,ᱫᱷᱤᱨᱤ ᱪᱮᱛᱟᱱ ᱨᱮ ᱪᱮᱬᱮ ᱫᱩᱲᱩᱵ ᱞᱮᱱᱟᱭ ᱾,dhiri cetān re ceṇe duṛub lenāy .,phrase,high,PASS,"attested phrase, confidence high"
+135,All shipped phrases (round trip),पानी-भात खा कर मुझे सोना है।,ᱫᱟᱜ ᱢᱟᱹᱲᱤ ᱫᱟᱠᱟ ᱡᱚᱢ ᱠᱟᱛᱮ ᱡᱟᱹᱯᱤᱫ ᱥᱮᱱᱟᱹᱧ ᱠᱟᱱᱟ ᱾,ᱫᱟᱜ ᱢᱟᱹᱲᱤ ᱫᱟᱠᱟ ᱡᱚᱢ ᱠᱟᱛᱮ ᱡᱟᱹᱯᱤᱫ ᱥᱮᱱᱟᱹᱧ ᱠᱟᱱᱟ ᱾,dāg mṛi dākā jam kāte jpid senñ kānā .,phrase,high,PASS,"attested phrase, confidence high"
+136,Dictionary: glossary-eng-sat,ये रंग हैं,ᱱᱚᱶᱟ ᱠᱚ ᱫᱚ ᱨᱚᱝ ᱠᱟᱱᱟ,ᱱᱚᱶᱟ ᱠᱚ ᱫᱚ ᱨᱚᱝ ᱠᱟᱱᱟ,navā ka da raṅ kānā,dictionary,high,PASS,"from glossary-eng-sat (Hindi side: curated, theme colours)"
+137,Dictionary: glossary-eng-sat,समय,ᱚᱠᱛᱚ,ᱚᱠᱛᱚ,akta,dictionary,high,PASS,"from glossary-eng-sat (Hindi side: curated, theme nature)"
+138,Dictionary: glossary-eng-sat,दबाओ,ᱚᱛᱟ,ᱚᱛᱟ,atā,dictionary,high,PASS,"from glossary-eng-sat (Hindi side: curated, theme school)"
+139,Dictionary: glossary-eng-sat,शगुन,ᱥᱟᱹᱜᱤᱱ,ᱥᱟᱹᱜᱤᱱ,sgin,dictionary,high,PASS,"from glossary-eng-sat (Hindi side: curated, theme school)"
+140,Dictionary: glossary-sat-eng,मछली,ᱦᱟᱹᱠᱩ,ᱦᱟᱹᱠᱩ,hku,vocab,high,PASS,"from glossary-sat-eng (Hindi side: curated, theme food)"
+141,Dictionary: glossary-sat-eng,यहाँ,ᱱᱚᱰᱮ,ᱱᱚᱰᱮ,naḍe,dictionary,high,PASS,"from glossary-sat-eng (Hindi side: curated, theme general)"
+142,Dictionary: glossary-sat-eng,इनमें से,ᱱᱩᱠᱩᱣᱟᱜ,ᱱᱩᱠᱩᱣᱟᱜ,nukuwāg,dictionary,high,PASS,"from glossary-sat-eng (Hindi side: curated, theme general)"
+143,Dictionary: glossary-sat-eng,कहाँ,ᱚᱠᱟᱨᱮ,ᱚᱠᱟᱨᱮ,akāre,vocab,medium,PASS,"from glossary-sat-eng (Hindi side: curated-vocabulary, theme general) - the shipped word list spells this ᱚᱠᱟᱨᱮ; the file's ᱚᱠᱟᱨᱮ? is kept as an alternate"
+144,Dictionary: santali-open-dictionary,गधा,ᱜᱟᱫᱷᱟ,ᱜᱟᱫᱷᱟ,gādhā,dictionary,high,PASS,"from santali-open-dictionary (Hindi side: curated, theme animals)"
+145,Dictionary: santali-open-dictionary,उँगली,ᱠᱟᱹᱴᱩᱵ,ᱠᱟᱹᱴᱩᱵ,kṭub,vocab,high,PASS,"from santali-open-dictionary (Hindi side: curated, theme body)"
+146,Dictionary: santali-open-dictionary,बेटा,ᱦᱚᱯᱚᱱ,ᱦᱚᱯᱚᱱ,hapan,vocab,high,PASS,"from santali-open-dictionary (Hindi side: curated, theme family) - the shipped word list spells this ᱦᱚᱯᱚᱱ; the file's ᱵᱮᱴᱟ is kept as an alternate"
+147,Dictionary: santali-open-dictionary,सब्ज़ियाँ,ᱩᱛᱩ,ᱩᱛᱩ,utu,dictionary,high,PASS,"from santali-open-dictionary (Hindi side: curated, theme food)"
+148,Number system,शून्य,ᱥᱩᱱᱭᱚ,ᱥᱩᱱᱭᱚ,sunya,vocab,high,PASS,0 written out: Santhali counts in tens (ᱜᱮᱞ ᱢᱤᱫ = ten-one = 11)
+149,Number system,13,ᱜᱮᱞ ᱯᱮ,ᱜᱮᱞ ᱯᱮ,gel pe,number,high,PASS,13 written out: Santhali counts in tens (ᱜᱮᱞ ᱢᱤᱫ = ten-one = 11)
+150,Number system,25,ᱵᱟᱨ ᱜᱮᱞ ᱢᱚᱬᱮ,ᱵᱟᱨ ᱜᱮᱞ ᱢᱚᱬᱮ,bār gel maṇe,number,high,PASS,25 written out: Santhali counts in tens (ᱜᱮᱞ ᱢᱤᱫ = ten-one = 11)
+151,Number system,40,ᱯᱩᱱ ᱜᱮᱞ,ᱯᱩᱱ ᱜᱮᱞ,pun gel,number,high,PASS,40 written out: Santhali counts in tens (ᱜᱮᱞ ᱢᱤᱫ = ten-one = 11)
+152,Number system,99,ᱟᱨᱮ ᱜᱮᱞ ᱟᱨᱮ,ᱟᱨᱮ ᱜᱮᱞ ᱟᱨᱮ,āre gel āre,number,high,PASS,99 written out: Santhali counts in tens (ᱜᱮᱞ ᱢᱤᱫ = ten-one = 11)
+153,Number system,सौ,ᱥᱟᱭ,ᱥᱟᱭ,sāy,vocab,high,PASS,100 written out: Santhali counts in tens (ᱜᱮᱞ ᱢᱤᱫ = ten-one = 11)
+154,Verb forms (round trip),पढ़ो।,,ᱯᱟᱲᱦᱟᱣ,pāṛhāw,vocab,medium,INFO,verb pattern for read! (glossary word wins if it is also a noun)
+155,Verb forms (round trip),लिखो।,,ᱚᱞ,al,vocab,medium,INFO,verb pattern for write! (glossary word wins if it is also a noun)
+156,Verb forms (round trip),देखो।,,ᱧᱮᱞ,ñel,vocab,high,INFO,verb pattern for look! (glossary word wins if it is also a noun)
+157,Verb forms (round trip),बताओ।,,ᱞᱟᱹᱭ ᱢᱮ,ly me,verb,high,INFO,verb pattern for tell! (glossary word wins if it is also a noun)
+158,Verb forms (round trip),सुनो।,,ᱟᱡᱚᱢ,ājam,vocab,medium,INFO,verb pattern for listen! (glossary word wins if it is also a noun)
+159,Verb forms (round trip),बैठो।,,ᱫᱩᱨᱩᱵ,durub,vocab,high,INFO,verb pattern for sit! (glossary word wins if it is also a noun)
+160,Verb forms (round trip),चलो।,,ᱪᱟᱞᱟᱜ ᱯᱮ,cālāg pe,verb,high,INFO,verb pattern for go! (you all) (glossary word wins if it is also a noun)
+161,Verb forms (round trip),जाओ।,,ᱪᱟᱞᱟᱜ,cālāg,vocab,medium,INFO,verb pattern for go! (glossary word wins if it is also a noun)
+162,Verb forms (round trip),लो।,,ᱦᱟᱛᱟᱣ ᱢᱮ,hātāw me,verb,high,INFO,verb pattern for take! (glossary word wins if it is also a noun)
+163,Verb forms (round trip),दो।,,ᱵᱟᱨᱭᱟ,bāryā,vocab,medium,INFO,verb pattern for give! (glossary word wins if it is also a noun)
+164,Worksheets (must never be blank),picture_label / fruits,Santhali words present,9 Santhali words,,worksheet,-,PASS,printable worksheet generated by the server
+165,Worksheets (must never be blank),trace_write / family,Santhali words present,9 Santhali words,,worksheet,-,PASS,printable worksheet generated by the server
+166,Worksheets (must never be blank),vocab_match / school,Santhali words present,8 Santhali words,,worksheet,-,PASS,printable worksheet generated by the server
+167,Worksheets (must never be blank),count_write / fruits,Santhali words present,11 Santhali words,,worksheet,-,PASS,printable worksheet generated by the server
+168,Worksheets (must never be blank),count_write / numbers,Santhali words present,9 Santhali words,,worksheet,-,PASS,printable worksheet generated by the server
+169,Worksheets (must never be blank),fill_blank / actions,Santhali words present,8 Santhali words,,worksheet,-,PASS,printable worksheet generated by the server
+170,Low confidence -> words only,सरकारी स्कूल में नया शिक्षक  | no sentence invented,no sentence,no sentence,,rule,-,PASS,low-confidence input must never come back as a sentence
+171,Low confidence -> words only,सरकारी स्कूल में नया शिक्षक  | words offered instead,words offered,words offered,,rule,-,PASS,"4/7 words known, combination: ᱥᱠᱩᱞ ᱱᱟᱣᱟ ᱢᱟᱪᱮᱫ ᱦᱮᱡ"
+172,Low confidence -> words only,सरकारी स्कूल में नया शिक्षक  | method + confidence,word-combo/low,word-combo/low,,rule,-,PASS,the reply must label itself as a word list
+173,Low confidence -> words only,मुझे बाजार से दो किलो चावल ल | no sentence invented,no sentence,no sentence,,rule,-,PASS,low-confidence input must never come back as a sentence
+174,Low confidence -> words only,मुझे बाजार से दो किलो चावल ल | words offered instead,words offered,words offered,,rule,-,PASS,"2/8 words known, combination: ᱵᱟᱨᱭᱟ ᱪᱟᱣᱞᱮ"
+175,Low confidence -> words only,मुझे बाजार से दो किलो चावल ल | method + confidence,word-combo/low,word-combo/low,,rule,-,PASS,the reply must label itself as a word list
+176,Low confidence -> words only,confident input still translates,high/medium,high,,rule,-,PASS,high-confidence sentences are unaffected by the rule
+177,Low confidence -> words only,the word combination is speakable,audio bytes > 0,11328 bytes,,rule,-,PASS,combined text: ᱛᱮᱦᱮᱧ ᱱᱟᱯᱟᱭ
+178,Low confidence -> words only,function words reported as skipped,reported,reported,,rule,-,PASS,"skipped: ['है'] - है was aligned to a dual marker in the corpus, so it is left out instead of taught"

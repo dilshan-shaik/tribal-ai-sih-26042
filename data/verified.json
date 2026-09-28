@@ -1,0 +1,30 @@
+{
+ "किताब खोलो।": {
+  "sat": "ᱯᱚᱛᱚᱵ ᱡᱷᱤᱡᱽ ᱢᱮ।",
+  "scope": "phrase",
+  "note": "verified by Santhali speaker",
+  "teacher": "Pilot teacher",
+  "ts": "2026-09-15T13:32:48+00:00"
+ },
+ "गीत": {
+  "sat": "ᱥᱮᱨᱮᱧ",
+  "scope": "vocab",
+  "note": "reviewed in app",
+  "teacher": "",
+  "ts": "2026-09-15T13:34:03+00:00"
+ },
+ "चित्र": {
+  "sat": "ᱪᱤᱛᱟᱹᱨ",
+  "scope": "vocab",
+  "note": "reviewed in app",
+  "teacher": "",
+  "ts": "2026-09-24T16:45:19+00:00"
+ },
+ "अक्षर": {
+  "sat": "ᱪᱤᱴᱷᱤ",
+  "scope": "vocab",
+  "note": "reviewed in app",
+  "teacher": "",
+  "ts": "2026-09-24T16:45:17+00:00"
+ }
+}

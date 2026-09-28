@@ -1,0 +1,41 @@
+# Odia -> Santhali (direct memory) test report
+
+- Target: `http://127.0.0.1:8100`
+- Result: **31 checks · PASS 31 · eyeball 0 · FAIL 0**
+- Odia translation memory: **116** sentences with a Santhali answer
+
+The Odia -> Hindi -> Santhali chain was removed. Odia input is answered directly from the trained memory; anything not in it is declined rather than generated.
+
+| Section | Test | Expected | Got | Status | Note |
+|---|---|---|---|---|---|
+| A. Direct Odia -> Santhali | paste: ଏକି ଜୋମ ଆକଗ_ଏ | ᱮᱠᱤ ᱡᱚᱢ ᱟᱠᱟᱜ ᱮ | ᱮᱠᱤ ᱡᱚᱢ ᱟᱠᱟᱜ ᱮ | PASS | method=odia-direct source_language=or |
+| A. Direct Odia -> Santhali |   └ no Hindi step in the reply | False | False | PASS | the chain must not appear in the response |
+| A. Direct Odia -> Santhali | paste: କୋଜ଼  କୁଜ଼ୀ   ମଇଦ ଟକୋ ଏନଏଜ  aସେ? | ᱠᱚᱡᱚ ᱠᱩᱡᱚ ᱢᱤᱫ ᱴᱚᱠᱚ ᱮᱱᱮᱡ ᱥᱮ | ᱠᱚᱡᱚ ᱠᱩᱡᱚ ᱢᱤᱫ ᱴᱚᱠᱚ ᱮᱱᱮᱡ ᱥᱮ | PASS | method=odia-direct source_language=or |
+| A. Direct Odia -> Santhali |   └ no Hindi step in the reply | False | False | PASS | the chain must not appear in the response |
+| A. Direct Odia -> Santhali | paste: ସେଂଡ଼ର ତୟମ ସଡ଼ପେ ଚେକୟ? | ᱥᱮᱰᱚᱨᱚ ᱛᱟᱭᱚᱢ ᱥᱚᱰᱚᱯᱮ ᱪᱮᱠᱟᱭᱟ | ᱥᱮᱰᱚᱨᱚ ᱛᱟᱭᱚᱢ ᱥᱚᱰᱚᱯᱮ ᱪᱮᱠᱟᱭᱟ | PASS | method=odia-direct source_language=or |
+| A. Direct Odia -> Santhali |   └ no Hindi step in the reply | False | False | PASS | the chain must not appear in the response |
+| A. Direct Odia -> Santhali | paste: ନେସ କାସବାସରେ ହଁନ ହୁୟ ଅକାନ ସେ? | ᱱᱮᱥ ᱠᱟᱥᱚᱵᱟᱥᱚᱨᱮ ᱦᱚᱱ ᱦᱩᱭ ᱚᱠᱟᱱᱚ ᱥᱮ | ᱱᱮᱥ ᱠᱟᱥᱚᱵᱟᱥᱚᱨᱮ ᱦᱚᱱ ᱦᱩᱭ ᱚᱠᱟᱱᱚ ᱥᱮ | PASS | method=odia-direct source_language=or |
+| A. Direct Odia -> Santhali |   └ no Hindi step in the reply | False | False | PASS | the chain must not appear in the response |
+| A. Direct Odia -> Santhali | paste: ବିରତେ ସେନଗ ଜୋଖେଜ ସାଵତେ ସେତ ପେ ଇଡି  | ᱵᱤᱨᱚᱛᱮ ᱥᱮᱱᱚᱜ ᱡᱚᱠᱷᱮᱡ ᱥᱟᱶᱛᱮ ᱥᱮᱛ ᱯᱮ ᱤᱰᱤ ᱠᱚᱶᱟ ᱥᱮ | ᱵᱤᱨᱚᱛᱮ ᱥᱮᱱᱚᱜ ᱡᱚᱠᱷᱮᱡ ᱥᱟᱶᱛᱮ ᱥᱮᱛ ᱯᱮ ᱤᱰᱤ ᱠᱚᱶᱟ ᱥᱮ | PASS | method=odia-direct source_language=or |
+| A. Direct Odia -> Santhali |   └ no Hindi step in the reply | False | False | PASS | the chain must not appear in the response |
+| A. Direct Odia -> Santhali | paste: ହାପିଜ଼ାମ କୋ ଚେତନରେ ଗ:ହିର ପାତୀୟୱ ତପ | ᱦᱟᱯᱤᱡᱚᱢᱚ ᱠᱚ ᱪᱮᱛᱟᱱᱨᱮ ᱜᱚ ᱦᱤᱨ ᱯᱟᱛᱤᱭᱚᱶᱚ ᱛᱟᱯᱮ ᱢᱮᱱᱮᱡᱚ ᱮ ᱥᱮ ᱵᱟᱯᱷᱟ | ᱦᱟᱯᱤᱡᱚᱢᱚ ᱠᱚ ᱪᱮᱛᱟᱱᱨᱮ ᱜᱚ ᱦᱤᱨ ᱯᱟᱛᱤᱭᱚᱶᱚ ᱛᱟᱯᱮ ᱢᱮᱱᱮᱡᱚ ᱮ ᱥᱮ ᱵᱟᱯᱷᱟ | PASS | method=odia-direct source_language=or |
+| A. Direct Odia -> Santhali |   └ no Hindi step in the reply | False | False | PASS | the chain must not appear in the response |
+| B. Auto-detect | Odia script is detected without being chosen | True | True | PASS | 5/5 memory sentences answered with source='auto' |
+| B. Auto-detect | a Hindi sentence is not mistaken for Odia | hi | hi | PASS | method=template |
+| C. No chain | unseen Odia: ଆଜି ଆମେ ସ୍କୁଲରେ ଗଣିତ ଶିଖିବା | False | False | PASS | must be declined - Odia never generates a Santhali sentence |
+| C. No chain |   └ declined with a reason, not an empty answer | True | True | PASS | this sentence is not in the trained Odia translations |
+| C. No chain |   └ method is 'declined', not a translation method | declined | declined | PASS |  |
+| C. No chain |   └ no Santhali was invented | False | False | PASS |  |
+| C. No chain | formerly chained: ମାଛ ପାଣିରେ ରହେ | no generated sentence | no generated sentence | PASS | ok=False method=declined |
+| C. No chain | formerly chained: କିତାବ ବନ୍ଦ କର | no generated sentence | no generated sentence | PASS | ok=False method=declined |
+| C. No chain | formerly chained: ଫଳ କାହିଁ ଅଛି | no generated sentence | no generated sentence | PASS | ok=False method=declined |
+| D. Hindi -> Santhali unaffected | किताब बंद करो। | ᱯᱚᱛᱚᱵ ᱵᱚᱸᱫᱚᱭ ᱢᱮ! | ᱯᱚᱛᱚᱵ ᱵᱚᱸᱫᱚᱭ ᱢᱮ! | PASS | method=phrase |
+| D. Hindi -> Santhali unaffected | खोपड़ी | ᱠᱷᱟᱯᱨᱤ | ᱠᱷᱟᱯᱨᱤ | PASS | method=dictionary |
+| D. Hindi -> Santhali unaffected | चावल | ᱪᱟᱣᱞᱮ | ᱪᱟᱣᱞᱮ | PASS | method=vocab |
+| D. Hindi -> Santhali unaffected | 25 | ᱵᱟᱨ ᱜᱮᱞ ᱢᱚᱬᱮ | ᱵᱟᱨ ᱜᱮᱞ ᱢᱚᱬᱮ | PASS | method=number |
+| D. Hindi -> Santhali unaffected | a Hindi sentence is still answered | True | True | PASS | method=word-combo confidence=low words=1 |
+| E. API surface | POST /api/odia/convert is gone | True | True | PASS | status=405 - that endpoint was step 1 of the removed chain |
+| E. API surface |   └ it no longer returns a Hindi conversion | False | False | PASS |  |
+| E. API surface | GET /api/odia/samples answers | True | True | PASS | total=116 |
+| E. API surface | GET /api/odia/stats reports direct mode | direct Odia -> Santhali memory lookup (no Hindi step) | direct Odia -> Santhali memory lookup (no Hindi step) | PASS |  |
+| E. API surface | stats keep quiet about a chain | False | False | PASS | the lexicon counter was chain-only |

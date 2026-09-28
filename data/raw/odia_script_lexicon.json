@@ -1,0 +1,1065 @@
+{
+ "note": "Odia-script spelling -> Ol Chiki, recovered by matching every plausible vowel reading against attested Santhali forms",
+ "pairs": {
+  "ଜୋମ": {
+   "olchiki": "ᱡᱚᱢ",
+   "n": 10,
+   "matched": true
+  },
+  "ଆକଗ": {
+   "olchiki": "ᱟᱠᱟᱜ",
+   "n": 1,
+   "matched": true
+  },
+  "ବୀର": {
+   "olchiki": "ᱵᱤᱨ",
+   "n": 12,
+   "matched": true
+  },
+  "ସେ": {
+   "olchiki": "ᱥᱮ",
+   "n": 66,
+   "matched": true
+  },
+  "ମଇଦ": {
+   "olchiki": "ᱢᱤᱫ",
+   "n": 4,
+   "matched": true
+  },
+  "ଏନଏଜ": {
+   "olchiki": "ᱮᱱᱮᱡ",
+   "n": 7,
+   "matched": true
+  },
+  "ଆପେ": {
+   "olchiki": "ᱟᱯᱮ",
+   "n": 22,
+   "matched": true
+  },
+  "ବୁରୁ": {
+   "olchiki": "ᱵᱩᱨᱩ",
+   "n": 4,
+   "matched": true
+  },
+  "ହାସ": {
+   "olchiki": "ᱦᱟᱥᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "ତୟମ": {
+   "olchiki": "ᱛᱟᱭᱚᱢ",
+   "n": 1,
+   "matched": true
+  },
+  "ଚେକୟ": {
+   "olchiki": "ᱪᱮᱠᱟᱭᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜାମିନ": {
+   "olchiki": "ᱡᱟᱢᱤᱱ",
+   "n": 2,
+   "matched": true
+  },
+  "ସମାନ": {
+   "olchiki": "ᱥᱚᱢᱟᱱ",
+   "n": 4,
+   "matched": true
+  },
+  "ଜମି": {
+   "olchiki": "ᱡᱢᱤ",
+   "n": 1,
+   "matched": true
+  },
+  "ନେସ": {
+   "olchiki": "ᱱᱮᱥ",
+   "n": 5,
+   "matched": true
+  },
+  "ହଁନ": {
+   "olchiki": "ᱦᱚᱱ",
+   "n": 2,
+   "matched": true
+  },
+  "ହୁୟ": {
+   "olchiki": "ᱦᱩᱭ",
+   "n": 8,
+   "matched": true
+  },
+  "ମେନାଗ": {
+   "olchiki": "ᱢᱮᱱᱟᱜ",
+   "n": 2,
+   "matched": true
+  },
+  "ସେନଗ": {
+   "olchiki": "ᱥᱮᱱᱚᱜ",
+   "n": 14,
+   "matched": true
+  },
+  "ଜୋଖେଜ": {
+   "olchiki": "ᱡᱚᱠᱷᱮᱡ",
+   "n": 4,
+   "matched": true
+  },
+  "ସାଵତେ": {
+   "olchiki": "ᱥᱟᱶᱛᱮ",
+   "n": 1,
+   "matched": true
+  },
+  "ସେତ": {
+   "olchiki": "ᱥᱮᱛ",
+   "n": 1,
+   "matched": true
+  },
+  "ପେ": {
+   "olchiki": "ᱯᱮ",
+   "n": 18,
+   "matched": true
+  },
+  "ଇଡି": {
+   "olchiki": "ᱤᱰᱤ",
+   "n": 2,
+   "matched": true
+  },
+  "କୋ": {
+   "olchiki": "ᱠᱚ",
+   "n": 24,
+   "matched": true
+  },
+  "ଜାଫ": {
+   "olchiki": "ᱡᱟᱯᱷ",
+   "n": 4,
+   "matched": true
+  },
+  "ଆମଦା": {
+   "olchiki": "ᱟᱢᱫᱟ",
+   "n": 2,
+   "matched": true
+  },
+  "ଚେତନରେ": {
+   "olchiki": "ᱪᱮᱛᱟᱱᱨᱮ",
+   "n": 2,
+   "matched": true
+  },
+  "ଗ": {
+   "olchiki": "ᱜᱚ",
+   "n": 1,
+   "matched": true
+  },
+  "ହିର": {
+   "olchiki": "ᱦᱤᱨ",
+   "n": 1,
+   "matched": true
+  },
+  "ତପେ": {
+   "olchiki": "ᱛᱟᱯᱮ",
+   "n": 1,
+   "matched": true
+  },
+  "ଆମ": {
+   "olchiki": "ᱟᱢ",
+   "n": 17,
+   "matched": true
+  },
+  "ଗିଡର": {
+   "olchiki": "ᱜᱤᱰᱨᱚ",
+   "n": 2,
+   "matched": true
+  },
+  "ଲାଗିଦ": {
+   "olchiki": "ᱞᱟᱜᱤᱫ",
+   "n": 10,
+   "matched": true
+  },
+  "ଏମ": {
+   "olchiki": "ᱮᱢ",
+   "n": 7,
+   "matched": true
+  },
+  "ଉୟହର": {
+   "olchiki": "ᱩᱭᱦᱟᱨ",
+   "n": 1,
+   "matched": true
+  },
+  "ତିନଗ": {
+   "olchiki": "ᱛᱤᱱᱟᱜ",
+   "n": 5,
+   "matched": true
+  },
+  "ଜୋତା": {
+   "olchiki": "ᱡᱚᱛᱟ",
+   "n": 4,
+   "matched": true
+  },
+  "ତହେଁ": {
+   "olchiki": "ᱛᱦᱮ",
+   "n": 3,
+   "matched": true
+  },
+  "ଆସେ": {
+   "olchiki": "ᱟᱥᱮ",
+   "n": 11,
+   "matched": true
+  },
+  "କୋଡ": {
+   "olchiki": "ᱠᱚᱰ",
+   "n": 1,
+   "matched": true
+  },
+  "ନପାଯ": {
+   "olchiki": "ᱱᱟᱯᱟᱭ",
+   "n": 1,
+   "matched": true
+  },
+  "ମନେ": {
+   "olchiki": "ᱢᱚᱱᱮ",
+   "n": 2,
+   "matched": true
+  },
+  "ଜନ": {
+   "olchiki": "ᱡᱚᱱ",
+   "n": 3,
+   "matched": true
+  },
+  "ଲେକା": {
+   "olchiki": "ᱞᱮᱠᱟ",
+   "n": 5,
+   "matched": true
+  },
+  "କେଶ": {
+   "olchiki": "ᱠᱮᱥ",
+   "n": 1,
+   "matched": true
+  },
+  "ଲେନା": {
+   "olchiki": "ᱞᱮᱱᱟ",
+   "n": 2,
+   "matched": true
+  },
+  "ତଇନଗ": {
+   "olchiki": "ᱛᱤᱱᱟᱜ",
+   "n": 9,
+   "matched": true
+  },
+  "ଜବର": {
+   "olchiki": "ᱡᱚᱵᱨᱟ",
+   "n": 4,
+   "matched": true
+  },
+  "ଖୋଂ": {
+   "olchiki": "ᱠᱷᱚ",
+   "n": 7,
+   "matched": true
+  },
+  "ଦେବା": {
+   "olchiki": "ᱫᱮᱵᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "ସେବା": {
+   "olchiki": "ᱥᱮᱵᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "କୋମ": {
+   "olchiki": "ᱠᱚᱢ",
+   "n": 3,
+   "matched": true
+  },
+  "ସେନ": {
+   "olchiki": "ᱥᱮᱱ",
+   "n": 9,
+   "matched": true
+  },
+  "ବଜ଼ାଗ": {
+   "olchiki": "ᱵᱟᱡᱟᱜ",
+   "n": 1,
+   "matched": true
+  },
+  "ଗେୟ": {
+   "olchiki": "ᱜᱮᱭ",
+   "n": 7,
+   "matched": true
+  },
+  "ଭାଗି": {
+   "olchiki": "ᱵᱷᱟᱜᱤ",
+   "n": 5,
+   "matched": true
+  },
+  "ଉନି": {
+   "olchiki": "ᱩᱱᱤ",
+   "n": 4,
+   "matched": true
+  },
+  "ଏୟା": {
+   "olchiki": "ᱮᱭᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "ମେମ": {
+   "olchiki": "ᱢᱮᱢ",
+   "n": 1,
+   "matched": true
+  },
+  "ଏଡ଼": {
+   "olchiki": "ᱮᱰᱟ",
+   "n": 12,
+   "matched": true
+  },
+  "ବେବହାର": {
+   "olchiki": "ᱵᱮᱵᱦᱟᱨ",
+   "n": 2,
+   "matched": true
+  },
+  "ଅଲେ": {
+   "olchiki": "ᱚᱞᱮ",
+   "n": 2,
+   "matched": true
+  },
+  "ଲେ": {
+   "olchiki": "ᱞᱮ",
+   "n": 5,
+   "matched": true
+  },
+  "ରେମ": {
+   "olchiki": "ᱨᱮᱢ",
+   "n": 1,
+   "matched": true
+  },
+  "ହୋନ": {
+   "olchiki": "ᱦᱚᱱ",
+   "n": 1,
+   "matched": true
+  },
+  "ରେଂଆଗଁ": {
+   "olchiki": "ᱨᱮᱟᱜ",
+   "n": 2,
+   "matched": true
+  },
+  "ବଡ଼ଆୟ": {
+   "olchiki": "ᱵᱟᱰᱟᱭ",
+   "n": 1,
+   "matched": true
+  },
+  "ଦୋ": {
+   "olchiki": "ᱫᱚ",
+   "n": 3,
+   "matched": true
+  },
+  "ନପାୟ": {
+   "olchiki": "ᱱᱟᱯᱟᱭ",
+   "n": 5,
+   "matched": true
+  },
+  "ସର": {
+   "olchiki": "ᱥᱚᱨ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜାଲ": {
+   "olchiki": "ᱡᱟᱞ",
+   "n": 2,
+   "matched": true
+  },
+  "କନା": {
+   "olchiki": "ᱠᱚᱱᱟ",
+   "n": 13,
+   "matched": true
+  },
+  "ଊନୀୟ": {
+   "olchiki": "ᱩᱱᱤᱭ",
+   "n": 4,
+   "matched": true
+  },
+  "ମାନ": {
+   "olchiki": "ᱢᱟᱱ",
+   "n": 1,
+   "matched": true
+  },
+  "ରେକୋ": {
+   "olchiki": "ᱨᱮᱠᱚ",
+   "n": 1,
+   "matched": true
+  },
+  "ହୟ": {
+   "olchiki": "ᱦᱭ",
+   "n": 1,
+   "matched": true
+  },
+  "ତବେ": {
+   "olchiki": "ᱛᱚᱵᱮ",
+   "n": 1,
+   "matched": true
+  },
+  "ଖାତୀର": {
+   "olchiki": "ᱠᱷᱟᱛᱤᱨ",
+   "n": 2,
+   "matched": true
+  },
+  "ଏନ": {
+   "olchiki": "ᱮᱱ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜଜ": {
+   "olchiki": "ᱡᱚᱡᱚ",
+   "n": 1,
+   "matched": true
+  },
+  "ସରକାର": {
+   "olchiki": "ᱥᱚᱨᱠᱟᱨ",
+   "n": 1,
+   "matched": true
+  },
+  "ଠେନ": {
+   "olchiki": "ᱴᱷᱮᱱ",
+   "n": 1,
+   "matched": true
+  },
+  "କାମ": {
+   "olchiki": "ᱠᱟᱢ",
+   "n": 2,
+   "matched": true
+  },
+  "ଯା": {
+   "olchiki": "ᱭᱟ",
+   "n": 2,
+   "matched": true
+  },
+  "ଋତୁରେ": {
+   "olchiki": "ᱛᱩᱨᱮ",
+   "n": 4,
+   "matched": true
+  },
+  "ବାପଲ": {
+   "olchiki": "ᱵᱟᱯᱞᱟ",
+   "n": 8,
+   "matched": true
+  },
+  "ବେଶ": {
+   "olchiki": "ᱵᱮᱥ",
+   "n": 1,
+   "matched": true
+  },
+  "ନାଵ": {
+   "olchiki": "ᱱᱟᱶᱟ",
+   "n": 4,
+   "matched": true
+  },
+  "ବୋଙ୍ଗ": {
+   "olchiki": "ᱵᱚᱝᱜᱚ",
+   "n": 7,
+   "matched": true
+  },
+  "ଊଂକୁ": {
+   "olchiki": "ᱩᱠᱩ",
+   "n": 12,
+   "matched": true
+  },
+  "ବଆମ": {
+   "olchiki": "ᱵᱟᱢ",
+   "n": 1,
+   "matched": true
+  },
+  "ବୋଙ୍ଗା": {
+   "olchiki": "ᱵᱚᱝᱜᱟ",
+   "n": 2,
+   "matched": true
+  },
+  "ଆୟ": {
+   "olchiki": "ᱟᱭ",
+   "n": 5,
+   "matched": true
+  },
+  "ଶବ": {
+   "olchiki": "ᱥᱚᱵᱟ",
+   "n": 2,
+   "matched": true
+  },
+  "ବାହା": {
+   "olchiki": "ᱵᱟᱦᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜାମା": {
+   "olchiki": "ᱡᱟᱢᱟ",
+   "n": 2,
+   "matched": true
+  },
+  "ହୋପନ": {
+   "olchiki": "ᱦᱚᱯᱱ",
+   "n": 10,
+   "matched": true
+  },
+  "ଏରା": {
+   "olchiki": "ᱮᱨᱟ",
+   "n": 5,
+   "matched": true
+  },
+  "ସେରମଆରଏ": {
+   "olchiki": "ᱥᱮᱨᱢᱟᱨᱮ",
+   "n": 1,
+   "matched": true
+  },
+  "ଏରୋଗ": {
+   "olchiki": "ᱮᱨᱚᱜ",
+   "n": 1,
+   "matched": true
+  },
+  "ଏହୋବ": {
+   "olchiki": "ᱮᱦᱚᱵ",
+   "n": 1,
+   "matched": true
+  },
+  "ମଏନ": {
+   "olchiki": "ᱢᱮᱱ",
+   "n": 1,
+   "matched": true
+  },
+  "ମଏ": {
+   "olchiki": "ᱢᱮ",
+   "n": 1,
+   "matched": true
+  },
+  "ଇସିନ": {
+   "olchiki": "ᱤᱥᱤᱱ",
+   "n": 1,
+   "matched": true
+  },
+  "କାଟେ": {
+   "olchiki": "ᱠᱟᱴᱮ",
+   "n": 1,
+   "matched": true
+  },
+  "ଉଙ୍କୁ": {
+   "olchiki": "ᱩᱝᱠᱩ",
+   "n": 5,
+   "matched": true
+  },
+  "କଆମ": {
+   "olchiki": "ᱠᱟᱢ",
+   "n": 1,
+   "matched": true
+  },
+  "ଏକଲା": {
+   "olchiki": "ᱮᱠᱞᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "ରେ": {
+   "olchiki": "ᱨᱮ",
+   "n": 2,
+   "matched": true
+  },
+  "କୁଲି": {
+   "olchiki": "ᱠᱩᱞᱤ",
+   "n": 1,
+   "matched": true
+  },
+  "ମେୟା": {
+   "olchiki": "ᱢᱮᱭᱟ",
+   "n": 3,
+   "matched": true
+  },
+  "ଖାସ": {
+   "olchiki": "ᱠᱷᱟᱥ",
+   "n": 1,
+   "matched": true
+  },
+  "ରେକ": {
+   "olchiki": "ᱨᱮᱠᱚ",
+   "n": 3,
+   "matched": true
+  },
+  "ୟାଗ": {
+   "olchiki": "ᱭᱟᱜ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜନମ": {
+   "olchiki": "ᱡᱚᱱᱚᱢ",
+   "n": 3,
+   "matched": true
+  },
+  "ଦାତା": {
+   "olchiki": "ᱫᱟᱛᱟ",
+   "n": 2,
+   "matched": true
+  },
+  "ଜେଲ": {
+   "olchiki": "ᱡᱮᱞ",
+   "n": 1,
+   "matched": true
+  },
+  "ବାର": {
+   "olchiki": "ᱵᱟᱨ",
+   "n": 1,
+   "matched": true
+  },
+  "ରେୟାଗ": {
+   "olchiki": "ᱨᱮᱭᱟᱜ",
+   "n": 1,
+   "matched": true
+  },
+  "ଦାଦା": {
+   "olchiki": "ᱫᱟᱫᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜାକିର": {
+   "olchiki": "ᱡᱟᱠᱤᱨ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜାହାଜ": {
+   "olchiki": "ᱡᱟᱦᱟᱡ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜଗହ": {
+   "olchiki": "ᱡᱟᱜᱟᱦ",
+   "n": 2,
+   "matched": true
+  },
+  "ବାବାହଗ": {
+   "olchiki": "ᱵᱟᱵᱟᱦᱟᱜ",
+   "n": 1,
+   "matched": true
+  },
+  "ବାଗି": {
+   "olchiki": "ᱵᱟᱜᱤ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜାମ୍ବିର": {
+   "olchiki": "ᱡᱟᱢᱵᱤᱨ",
+   "n": 1,
+   "matched": true
+  },
+  "କାମି": {
+   "olchiki": "ᱠᱟᱢᱤ",
+   "n": 7,
+   "matched": true
+  },
+  "ଜକନ": {
+   "olchiki": "ᱡᱚᱠᱚᱱ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜହାଂ": {
+   "olchiki": "ᱡᱟᱦᱟ",
+   "n": 2,
+   "matched": true
+  },
+  "କୋରେ": {
+   "olchiki": "ᱠᱚᱨᱮ",
+   "n": 1,
+   "matched": true
+  },
+  "ଅକୋୟ": {
+   "olchiki": "ᱚᱠᱚᱭ",
+   "n": 5,
+   "matched": true
+  },
+  "ଆମଦୋ": {
+   "olchiki": "ᱟᱢᱫᱚ",
+   "n": 1,
+   "matched": true
+  },
+  "ଏକେନ": {
+   "olchiki": "ᱮᱠᱮᱱ",
+   "n": 1,
+   "matched": true
+  },
+  "କଟେ": {
+   "olchiki": "ᱠᱟᱴᱮ",
+   "n": 2,
+   "matched": true
+  },
+  "ଗେକୋ": {
+   "olchiki": "ᱜᱮᱠᱚ",
+   "n": 1,
+   "matched": true
+  },
+  "ହାଟ": {
+   "olchiki": "ᱦᱟᱴ",
+   "n": 7,
+   "matched": true
+  },
+  "ସମନ": {
+   "olchiki": "ᱥᱚᱢᱟᱱ",
+   "n": 2,
+   "matched": true
+  },
+  "ବୟହ": {
+   "olchiki": "ᱵᱭᱦᱟ",
+   "n": 3,
+   "matched": true
+  },
+  "ଜାଲି": {
+   "olchiki": "ᱡᱟᱞᱤ",
+   "n": 1,
+   "matched": true
+  },
+  "ଖାଲି": {
+   "olchiki": "ᱠᱷᱟᱞᱤ",
+   "n": 1,
+   "matched": true
+  },
+  "ଲେକାମ": {
+   "olchiki": "ᱞᱮᱠᱟᱢ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜଳ": {
+   "olchiki": "ᱡᱚᱞ",
+   "n": 1,
+   "matched": true
+  },
+  "ପୁରୀ": {
+   "olchiki": "ᱯᱩᱨᱤ",
+   "n": 1,
+   "matched": true
+  },
+  "ବଙ୍ଗବୁରୁ": {
+   "olchiki": "ᱵᱚᱝᱜᱟᱵᱩᱨᱩ",
+   "n": 2,
+   "matched": true
+  },
+  "ରିନ": {
+   "olchiki": "ᱨᱤᱱ",
+   "n": 1,
+   "matched": true
+  },
+  "ଆର": {
+   "olchiki": "ᱟᱨ",
+   "n": 2,
+   "matched": true
+  },
+  "ଗୟା": {
+   "olchiki": "ᱜᱭᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "କବ": {
+   "olchiki": "ᱠᱟᱵᱟ",
+   "n": 2,
+   "matched": true
+  },
+  "ଜଙ୍ଗ": {
+   "olchiki": "ᱡᱚᱝᱜ",
+   "n": 1,
+   "matched": true
+  },
+  "କଲ": {
+   "olchiki": "ᱠᱚᱞ",
+   "n": 1,
+   "matched": true
+  },
+  "ଏର": {
+   "olchiki": "ᱮᱨ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜଳପୁରୀ": {
+   "olchiki": "ᱡᱟᱞᱟᱯᱩᱨᱤ",
+   "n": 1,
+   "matched": true
+  },
+  "ମନ": {
+   "olchiki": "ᱢᱚᱱ",
+   "n": 1,
+   "matched": true
+  },
+  "ଖଂ": {
+   "olchiki": "ᱠᱷ",
+   "n": 1,
+   "matched": true
+  },
+  "ଶରଜମ": {
+   "olchiki": "ᱥᱟᱨᱡᱚᱢ",
+   "n": 1,
+   "matched": true
+  },
+  "ମେନଗ": {
+   "olchiki": "ᱢᱮᱱᱟᱜ",
+   "n": 3,
+   "matched": true
+  },
+  "ମିସେରା": {
+   "olchiki": "ᱢᱤᱥᱮᱨᱟ",
+   "n": 3,
+   "matched": true
+  },
+  "ଲେକାନ": {
+   "olchiki": "ᱞᱮᱠᱟᱱ",
+   "n": 3,
+   "matched": true
+  },
+  "ଚିତାର": {
+   "olchiki": "ᱪᱤᱛᱟᱨ",
+   "n": 1,
+   "matched": true
+  },
+  "ଭୀତ": {
+   "olchiki": "ᱵᱷᱤᱛ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜାଲା": {
+   "olchiki": "ᱡᱟᱞᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "ଡୋ": {
+   "olchiki": "ᱰᱚ",
+   "n": 2,
+   "matched": true
+  },
+  "ତୋ": {
+   "olchiki": "ᱛᱚ",
+   "n": 1,
+   "matched": true
+  },
+  "ରିୟ": {
+   "olchiki": "ᱨᱤᱭᱚ",
+   "n": 2,
+   "matched": true
+  },
+  "ଗୁର": {
+   "olchiki": "ᱜᱩᱨ",
+   "n": 1,
+   "matched": true
+  },
+  "ସୁପୁର": {
+   "olchiki": "ᱥᱩᱯᱩᱨ",
+   "n": 1,
+   "matched": true
+  },
+  "କୋରଏ": {
+   "olchiki": "ᱠᱚᱨᱮ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜବେ": {
+   "olchiki": "ᱡᱵᱮ",
+   "n": 1,
+   "matched": true
+  },
+  "ତମ": {
+   "olchiki": "ᱛᱚᱢ",
+   "n": 1,
+   "matched": true
+  },
+  "ହଃଯ଼ା": {
+   "olchiki": "ᱦᱭ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜୋ": {
+   "olchiki": "ᱡᱚ",
+   "n": 1,
+   "matched": true
+  },
+  "ଡ": {
+   "olchiki": "ᱰᱚ",
+   "n": 1,
+   "matched": true
+  },
+  "ଡ଼ଯ଼େ": {
+   "olchiki": "ᱰᱟᱭᱟ",
+   "n": 2,
+   "matched": true
+  },
+  "ଲେକରେ": {
+   "olchiki": "ᱞᱮᱠᱟᱨᱮ",
+   "n": 1,
+   "matched": true
+  },
+  "ଦିନମ": {
+   "olchiki": "ᱫᱤᱱᱟᱢ",
+   "n": 1,
+   "matched": true
+  },
+  "ବାଡ଼": {
+   "olchiki": "ᱵᱟᱰ",
+   "n": 1,
+   "matched": true
+  },
+  "ଅର୍ଜ": {
+   "olchiki": "ᱚᱨᱡᱚ",
+   "n": 1,
+   "matched": true
+  },
+  "ଦଲବ": {
+   "olchiki": "ᱫᱚᱞᱚᱵ",
+   "n": 1,
+   "matched": true
+  },
+  "ଏୟାୟ": {
+   "olchiki": "ᱮᱭᱟᱭ",
+   "n": 1,
+   "matched": true
+  },
+  "ରଏ": {
+   "olchiki": "ᱨᱮ",
+   "n": 1,
+   "matched": true
+  },
+  "ହୁଯୁଗ": {
+   "olchiki": "ᱦᱩᱭᱩᱜ",
+   "n": 5,
+   "matched": true
+  },
+  "ଚ": {
+   "olchiki": "ᱪᱚ",
+   "n": 1,
+   "matched": true
+  },
+  "କୁସି": {
+   "olchiki": "ᱠᱩᱥᱤ",
+   "n": 1,
+   "matched": true
+  },
+  "କାନ": {
+   "olchiki": "ᱠᱟᱱ",
+   "n": 1,
+   "matched": true
+  },
+  "କୁସିଂ": {
+   "olchiki": "ᱠᱩᱥᱤ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜହରେ": {
+   "olchiki": "ᱡᱚᱦᱟᱨᱮ",
+   "n": 1,
+   "matched": true
+  },
+  "ଆଲେ": {
+   "olchiki": "ᱟᱞᱮ",
+   "n": 3,
+   "matched": true
+  },
+  "ଏଟଂ": {
+   "olchiki": "ᱮᱴ",
+   "n": 1,
+   "matched": true
+  },
+  "ଦୋକୋ": {
+   "olchiki": "ᱫᱚᱠᱚ",
+   "n": 1,
+   "matched": true
+  },
+  "ବାଜ଼ିଜ": {
+   "olchiki": "ᱵᱟᱡᱟᱡ",
+   "n": 1,
+   "matched": true
+  },
+  "ବାକୋ": {
+   "olchiki": "ᱵᱟᱠᱚ",
+   "n": 1,
+   "matched": true
+  },
+  "ସନାମ": {
+   "olchiki": "ᱥᱟᱱᱟᱢ",
+   "n": 1,
+   "matched": true
+  },
+  "ଯୋଗ": {
+   "olchiki": "ᱭᱚᱜᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "ଗୋଜ଼": {
+   "olchiki": "ᱜᱚᱡ",
+   "n": 1,
+   "matched": true
+  },
+  "ପେୟ": {
+   "olchiki": "ᱯᱮᱭᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "ଦାଗ": {
+   "olchiki": "ᱫᱟᱜ",
+   "n": 1,
+   "matched": true
+  },
+  "ବାବା": {
+   "olchiki": "ᱵᱟᱵᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "କୁସିଂୟଂ": {
+   "olchiki": "ᱠᱩᱥᱤᱭᱟ",
+   "n": 2,
+   "matched": true
+  },
+  "ରେଂ": {
+   "olchiki": "ᱨᱮ",
+   "n": 1,
+   "matched": true
+  },
+  "ଅନା": {
+   "olchiki": "ᱚᱱᱟ",
+   "n": 2,
+   "matched": true
+  },
+  "ବାମ": {
+   "olchiki": "ᱵᱟᱢ",
+   "n": 1,
+   "matched": true
+  },
+  "ହଁକୁ": {
+   "olchiki": "ᱦᱟᱠᱩ",
+   "n": 1,
+   "matched": true
+  },
+  "ସବ": {
+   "olchiki": "ᱥᱚᱵᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜବ": {
+   "olchiki": "ᱡᱚᱵᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "ରୁ": {
+   "olchiki": "ᱨᱩ",
+   "n": 2,
+   "matched": true
+  },
+  "ଡର": {
+   "olchiki": "ᱰᱨ",
+   "n": 1,
+   "matched": true
+  },
+  "ବେଭାର": {
+   "olchiki": "ᱵᱮᱵᱷᱟᱨ",
+   "n": 1,
+   "matched": true
+  },
+  "ମଇ": {
+   "olchiki": "ᱢᱤ",
+   "n": 2,
+   "matched": true
+  },
+  "କୁସିଂୟାଗ": {
+   "olchiki": "ᱠᱩᱥᱤᱭᱟᱜ",
+   "n": 1,
+   "matched": true
+  },
+  "ସୁନା": {
+   "olchiki": "ᱥᱩᱱᱟ",
+   "n": 1,
+   "matched": true
+  },
+  "ଜାହାନ": {
+   "olchiki": "ᱡᱟᱦᱟᱱ",
+   "n": 1,
+   "matched": true
+  }
+ }
+}

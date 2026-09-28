@@ -1,0 +1,454 @@
+{
+ "variants": [
+  {
+   "hindi": "कौआ",
+   "english": "crow",
+   "pack": "ᱠᱟᱦᱩ",
+   "dictionary": "ᱠᱟᱹᱦᱩ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "बाल",
+   "english": "hair",
+   "pack": "ᱩᱵ",
+   "dictionary": "ᱩᱵᱽ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "नाक",
+   "english": "nose",
+   "pack": "ᱢᱩᱸ",
+   "dictionary": "ᱢᱩ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "पेट",
+   "english": "stomach",
+   "pack": "ᱞᱟᱡ",
+   "dictionary": "ᱞᱟᱡᱽ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "पीला",
+   "english": "yellow",
+   "pack": "ᱥᱟᱥᱟᱹᱝ",
+   "dictionary": "ᱥᱟᱥᱟᱝ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "आओ",
+   "english": "come",
+   "pack": "ᱦᱟᱡᱩᱜ",
+   "dictionary": "ᱦᱟᱹᱡᱩᱜ",
+   "source": "glossary-sat-eng"
+  }
+ ],
+ "semantic": [
+  {
+   "hindi": "भैंस",
+   "english": "buffalo",
+   "pack": "ᱠᱟᱰᱟ",
+   "dictionary": "ᱠᱟᱲᱟ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "गाय",
+   "english": "cow",
+   "pack": "ᱰᱟᱝᱨᱤ",
+   "dictionary": "ᱜᱟᱹᱭ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "हिरण",
+   "english": "deer",
+   "pack": "ᱦᱨᱤᱱ",
+   "dictionary": "ᱡᱤᱞ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "मुर्गी",
+   "english": "hen",
+   "pack": "ᱥᱤᱢ",
+   "dictionary": "ᱥᱤᱢ ᱮᱸᱜᱟ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "शेर",
+   "english": "lion",
+   "pack": "ᱠᱩᱞ",
+   "dictionary": "ᱠᱟᱴᱟᱣᱟ ᱛᱟᱹᱨᱩᱵ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "बंदर",
+   "english": "monkey",
+   "pack": "ᱜᱟᱬᱤ",
+   "dictionary": "ᱦᱟᱹᱬᱩ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "चूहा",
+   "english": "mouse",
+   "pack": "ᱪᱩᱴᱤᱭᱟ",
+   "dictionary": "ᱪᱩᱴᱩ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "सूअर",
+   "english": "pig",
+   "pack": "ᱟᱹᱥᱩᱞ ᱥᱩᱠᱨᱤ",
+   "dictionary": "ᱥᱩᱠᱨᱤ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "कबूतर",
+   "english": "pigeon",
+   "pack": "ᱯᱟᱣᱨᱟ",
+   "dictionary": "ᱯᱟᱨᱣᱟ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "बकरी",
+   "english": "she goat",
+   "pack": "ᱢᱮᱨᱚᱢ",
+   "dictionary": "ᱮᱸᱜᱟ ᱢᱮᱨᱚᱢ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "पैर",
+   "english": "feet",
+   "pack": "ᱠᱟᱴᱟ",
+   "dictionary": "ᱡᱟᱝᱜᱟ ᱛᱷᱚᱯᱮ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "उँगली",
+   "english": "finger",
+   "pack": "ᱠᱟᱛᱩᱵ",
+   "dictionary": "ᱠᱟᱹᱴᱩᱵ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "पैर",
+   "english": "foot",
+   "pack": "ᱠᱟᱴᱟ",
+   "dictionary": "ᱡᱟᱝᱜᱟ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "सिर",
+   "english": "head",
+   "pack": "ᱵᱚᱦᱚᱜ",
+   "dictionary": "ᱵᱚᱷᱚᱜ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "गर्दन",
+   "english": "neck",
+   "pack": "ᱦᱚᱴᱹ",
+   "dictionary": "ᱦᱚᱴᱚᱜᱽ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "भूरा",
+   "english": "brown",
+   "pack": "ᱠᱷᱭᱮᱨ",
+   "dictionary": "ᱢᱟᱴᱤᱭᱟᱲ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "हरा",
+   "english": "green",
+   "pack": "ᱱᱤᱨᱚᱱ",
+   "dictionary": "ᱦᱟᱹᱨᱤᱭᱟᱹᱲ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "सफ़ेद",
+   "english": "white",
+   "pack": "ᱯᱩᱬ",
+   "dictionary": "ᱯᱩᱸᱰ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "बेटी",
+   "english": "daughter",
+   "pack": "ᱦᱚᱯᱚᱱᱮᱨᱟ",
+   "dictionary": "ᱵᱤᱴᱤ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "दादी",
+   "english": "grand mother",
+   "pack": "ᱵᱩᱰᱤᱜᱚ",
+   "dictionary": "ᱜᱚᱲᱚᱢ ᱵᱩᱲᱷᱤ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "माँ",
+   "english": "mother",
+   "pack": "ᱜᱚᱜᱚ",
+   "dictionary": "ᱟᱭᱳ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "बहन",
+   "english": "sister",
+   "pack": "ᱢᱤᱥᱨᱟ",
+   "dictionary": "ᱵᱚᱠᱚᱧ ᱠᱩᱲᱤ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "बेटा",
+   "english": "son",
+   "pack": "ᱦᱚᱯᱚᱱ",
+   "dictionary": "ᱵᱮᱴᱟ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "सेब",
+   "english": "apple",
+   "pack": "ᱟᱯᱮᱞ",
+   "dictionary": "ᱥᱮᱣᱚ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "अंगूर",
+   "english": "grape",
+   "pack": "ᱚᱝᱜᱩᱨ",
+   "dictionary": "ᱟᱸᱜᱩᱨ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "दूध",
+   "english": "milk",
+   "pack": "ᱛᱳᱣᱟ",
+   "dictionary": "ᱛᱚᱣᱟ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "प्याज",
+   "english": "onion",
+   "pack": "ᱱᱤᱡᱱᱵᱩᱣ",
+   "dictionary": "ᱯᱮᱭᱟᱡ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "चावल",
+   "english": "rice",
+   "pack": "ᱫᱟᱠᱟ",
+   "dictionary": "ᱪᱟᱣᱞᱮ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "टमाटर",
+   "english": "tomato",
+   "pack": "ᱵᱤᱞᱤᱛᱤ",
+   "dictionary": "ᱵᱤᱞᱟᱹᱛᱤ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "चीनी",
+   "english": "Chinese",
+   "pack": "ᱪᱤᱱᱤ",
+   "dictionary": "ᱪᱟᱭᱱᱤᱡᱽ",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "वह",
+   "english": "He",
+   "pack": "ᱩᱱᱤ",
+   "dictionary": "ᱟᱡ/ᱥᱩᱱ/ᱦᱟᱹᱱᱤ",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "कितना",
+   "english": "How much?",
+   "pack": ".ᱮᱠᱟ ᱮᱠᱟ",
+   "dictionary": "ᱛᱤᱱᱟᱹᱜ ᱰᱷᱮᱨ ?",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "यह",
+   "english": "It/This",
+   "pack": "ᱱᱚᱣᱟ",
+   "dictionary": "ᱱᱚᱶᱟ",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "मैं",
+   "english": "Me",
+   "pack": "ᱤᱧ",
+   "dictionary": "ᱤᱧ ᱜᱮ",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "क्या",
+   "english": "What",
+   "pack": "ᱪᱮᱫ",
+   "dictionary": "ᱪᱮᱫ ?",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "कहाँ",
+   "english": "Where",
+   "pack": "ᱚᱠᱟᱨᱮ",
+   "dictionary": "ᱚᱠᱟᱨᱮ ?",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "कौन",
+   "english": "Who",
+   "pack": "ᱚᱠᱚᱭ",
+   "dictionary": "ᱚᱠᱚᱭ ?",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "क्यों",
+   "english": "Why",
+   "pack": "ᱠᱟᱭᱠᱚ.",
+   "dictionary": "ᱪᱮᱫᱟᱜ ?",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "रोटी",
+   "english": "bread",
+   "pack": "ᱯᱤᱴᱷᱟ",
+   "dictionary": "ᱧᱤᱸᱫᱟ ᱫᱟᱠᱟ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "मिर्च",
+   "english": "chilli",
+   "pack": "ᱢᱟᱺᱨᱤᱪ",
+   "dictionary": "ᱢᱟᱹᱨᱤᱪ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "चार",
+   "english": "four",
+   "pack": "ᱯᱳᱱ",
+   "dictionary": "ᱯᱩᱱ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "वह",
+   "english": "he/she",
+   "pack": "ᱩᱱᱤ",
+   "dictionary": "ᱟᱡ",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "तेल",
+   "english": "oil",
+   "pack": "ᱥᱩᱧᱩᱢ",
+   "dictionary": "ᱥᱩᱱᱩᱢ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "संतरा",
+   "english": "orange",
+   "pack": "ᱡᱟᱢᱵᱤᱨ",
+   "dictionary": "ᱜᱮᱨᱩᱟ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "पपीता",
+   "english": "papaya",
+   "pack": "ᱚᱢᱨᱤᱛ ᱡᱚ",
+   "dictionary": "ᱡᱟᱲᱟ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "वह",
+   "english": "she",
+   "pack": "ᱩᱱᱤ",
+   "dictionary": "ᱟᱡ(ᱠᱩᱲᱤ)",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "मीठा",
+   "english": "sweet",
+   "pack": "ᱦᱮᱲᱮᱢ",
+   "dictionary": "ᱥᱤᱵᱤᱞ",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "वह",
+   "english": "that",
+   "pack": "ᱩᱱᱤ",
+   "dictionary": "ᱚᱱᱟ",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "तेरह",
+   "english": "thirteen",
+   "pack": "ᱜᱮᱯᱮ",
+   "dictionary": "ᱜᱮᱞ ᱯᱮ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "यह",
+   "english": "this",
+   "pack": "ᱱᱚᱣᱟ",
+   "dictionary": "ᱱᱚᱶᱟ",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "दो",
+   "english": "two",
+   "pack": "ᱵᱟᱨᱭᱟ",
+   "dictionary": "ᱵᱟᱨ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "तरबूज",
+   "english": "watermelon",
+   "pack": "ᱛᱚᱨᱢᱩᱡ",
+   "dictionary": "ᱫᱟᱜᱠᱚᱦᱲᱟ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "तुम",
+   "english": "you only",
+   "pack": "ᱟᱢ",
+   "dictionary": "ᱟᱢᱜᱮ",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "शून्य",
+   "english": "zero",
+   "pack": "᱐",
+   "dictionary": "ᱥᱩᱱᱭᱚ",
+   "source": "santali-open-dictionary"
+  },
+  {
+   "hindi": "चाँद",
+   "english": "Moon",
+   "pack": "ᱪᱟᱹᱫᱳ",
+   "dictionary": "ᱢᱩᱱ",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "धरती",
+   "english": "earth",
+   "pack": "ᱛᱷᱟᱨᱛᱤ",
+   "dictionary": "ᱚᱛ",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "मिट्टी",
+   "english": "soil",
+   "pack": "ᱦᱟᱥᱟ",
+   "dictionary": "ᱚᱛ",
+   "source": "glossary-sat-eng"
+  },
+  {
+   "hindi": "शिक्षक",
+   "english": "teacher",
+   "pack": "ᱢᱟᱪᱮᱫ",
+   "dictionary": "ᱢᱟᱪᱮᱛ",
+   "source": "santali-open-dictionary"
+  }
+ ]
+}

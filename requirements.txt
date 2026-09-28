@@ -1,0 +1,40 @@
+# MTB-MLE teaching platform (Hindi -> Santhali / Mundari / Ho)
+# Python 3.11+ (developed and tested on 3.13.14)
+#
+#   install :  pip install -r requirements.txt
+#   serve   :  python -m uvicorn server.main:app --host 0.0.0.0 --port 8100
+#   or      :  ./preview.sh        (installs this file, builds web/dist, starts the server on 8100)
+
+# ---------------------------------------------------------------------------
+# core - everything the website needs: API, TTS, uploads, PDF translation
+# ---------------------------------------------------------------------------
+fastapi==0.141.1
+uvicorn[standard]==0.53.0
+gTTS==2.5.4                  # approximate Hindi-voice audio; needs internet at request time
+python-multipart==0.0.32     # file uploads: voice input + PDF translation
+pypdf==6.19.0                # PDF text extraction
+pydantic==2.13.4             # request/response models (also pulled in by fastapi)
+
+# ---------------------------------------------------------------------------
+# optional - voice input (speech to text, server-side Whisper)
+# Without it the microphone still works: the browser's own Web Speech API is
+# used first, this model is only the offline fallback. Leave it out if you
+# want a small image; the voice tiles then report "speech-to-text model not
+# installed" instead of transcribing. Weights download on first use, so the
+# first offline transcription is slow.
+# ---------------------------------------------------------------------------
+# faster-whisper>=1.0
+
+# ---------------------------------------------------------------------------
+# optional - rebuilding the language packs from the raw datasets
+# Only needed for:  python3 pipelines/build_multi_lang_packs.py
+#                   python3 pipelines/build_language_pack.py
+# The packs themselves ship as JSON under data/language_packs/ and are read
+# with the standard library, so serving the site never needs these.
+#   pyarrow  - reads the Ho augmented-parquet sources (sicsoc eng-hoc_aug2/aug5)
+#   pandas   - reads the Santhali parquet/CSV sources
+#   numpy    - pulled in by both, listed for completeness
+# ---------------------------------------------------------------------------
+# pandas>=2.1
+# pyarrow>=15
+# numpy>=1.26
